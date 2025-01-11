@@ -1,0 +1,18 @@
+[Event "FIDE World Blitz Chess Championship 2023"]
+[Date "2023.12.29"]
+[Round "12"]
+[White "Iturrizaga Bonelli, Eduardo"]
+[Black "Nasuta, Grzegorz"]
+[Result "1-0"]
+[Board "61"]
+[TimeControl "3+2"]
+[WhiteFideId "3901211"]
+[BlackFideId "1141686"]
+[WhiteElo "2645"]
+[BlackElo "2467"]
+[WhiteTeam "ESP"]
+[BlackTeam "POL"]
+[WhiteClock "0:00:40"]
+[BlackClock "0:00:05"]
+
+1. c4 {[%clk 0:03:02]}  c6 {[%clk 0:03:04]} 2. Nf3 {[%clk 0:03:02]}  d5 {[%clk 0:03:05]} 3. e3 {[%clk 0:03:03]}  Nf6 {[%clk 0:03:06]} 4. Qc2 {[%clk 0:03:04]}  a6 {[%clk 0:03:05]} 5. b3 {[%clk 0:02:59]}  Bg4 {[%clk 0:03:04]} 6. Bb2 {[%clk 0:02:55]}  e6 {[%clk 0:03:05]} 7. Be2 {[%clk 0:02:51]}  Bf5 {[%clk 0:02:55]} 8. d3 {[%clk 0:02:52]}  h6 {[%clk 0:02:55]} 9. Nbd2 {[%clk 0:02:52]}  Be7 {[%clk 0:02:53]} 10. O-O {[%clk 0:02:46]}  O-O {[%clk 0:02:53]} 11. Rfe1 {[%clk 0:02:40]}  Bh7 {[%clk 0:02:54]} 12. Rad1 {[%clk 0:02:40]}  a5 {[%clk 0:02:54]} 13. a3 {[%clk 0:02:40]}  Na6 {[%clk 0:02:38]} 14. Qc3 {[%clk 0:02:20]}  b5 {[%clk 0:02:09]} 15. cxb5 {[%clk 0:02:09]}  cxb5 {[%clk 0:02:10]} 16. Qd4 {[%clk 0:02:00]}  Ne8 {[%clk 0:01:39]} 17. Ne5 {[%clk 0:01:51]}  Bf6 {[%clk 0:01:33]} 18. Rc1 {[%clk 0:01:46]}  Rc8 {[%clk 0:01:17]} 19. Qa7 {[%clk 0:01:38]}  Nb8 {[%clk 0:00:41]} 20. Rxc8 {[%clk 0:01:24]}  Qxc8 {[%clk 0:00:42]} 21. Qxa5 {[%clk 0:01:03]}  Bxe5 {[%clk 0:00:36]} 22. Bxe5 {[%clk 0:01:04]}  Nc6 {[%clk 0:00:37]} 23. Qc3 {[%clk 0:01:04]}  Qa8 {[%clk 0:00:33]} 24. Bg3 {[%clk 0:01:00]}  Nf6 {[%clk 0:00:27]} 25. d4 {[%clk 0:00:54]}  Rc8 {[%clk 0:00:28]} 26. Qb2 {[%clk 0:00:46]}  Ne7 {[%clk 0:00:09]} 27. Rc1 {[%clk 0:00:44]}  Rxc1+ {[%clk 0:00:08]} 28. Qxc1 {[%clk 0:00:46]}  Qa5 {[%clk 0:00:05]} 29. Bd6 {[%clk 0:00:40]} 1-0

@@ -1,0 +1,15 @@
+[Event "Titled Tuesday Blitz November 16 2021"]
+[White "Demchenko, Anton"]
+[Black "Zelbel, Patrick"]
+[WhiteFideId "4160258"]
+[BlackFideId "24624322"]
+[WhiteElo "2583"]
+[BlackElo "2493"]
+[Result "1-0"]
+[Round "06"]
+[TimeControl "180+1"]
+[Date "2021.11.16"]
+[WhiteClock "0:00:20"]
+[BlackClock "0:00:02"]
+
+1. e4 {[%clk 0:03:00]}  e5 {[%clk 0:02:58]} 2. Nf3 {[%clk 0:03:00]}  Nc6 {[%clk 0:02:58]} 3. Bc4 {[%clk 0:03:01]}  Nf6 {[%clk 0:02:57]} 4. d3 {[%clk 0:03:02]}  h6 {[%clk 0:02:53]} 5. a4 {[%clk 0:02:59]}  Bc5 {[%clk 0:02:50]} 6. a5 {[%clk 0:02:55]}  a6 {[%clk 0:02:47]} 7. O-O {[%clk 0:02:54]}  d6 {[%clk 0:02:46]} 8. c3 {[%clk 0:02:54]}  O-O {[%clk 0:02:45]} 9. h3 {[%clk 0:02:53]}  Ba7 {[%clk 0:02:42]} 10. Be3 {[%clk 0:02:52]}  Bxe3 {[%clk 0:02:43]} 11. fxe3 {[%clk 0:02:53]}  Ne7 {[%clk 0:02:43]} 12. Nbd2 {[%clk 0:02:51]}  Ng6 {[%clk 0:02:43]} 13. d4 {[%clk 0:02:47]}  Qe7 {[%clk 0:02:36]} 14. Bd3 {[%clk 0:02:46]}  Bd7 {[%clk 0:02:34]} 15. b4 {[%clk 0:02:43]}  d5 {[%clk 0:02:13]} 16. Qc2 {[%clk 0:02:28]}  Rfe8 {[%clk 0:02:06]} 17. Rae1 {[%clk 0:02:28]}  Rad8 {[%clk 0:01:58]} 18. c4 {[%clk 0:01:53]}  dxc4 {[%clk 0:01:34]} 19. Bxc4 {[%clk 0:01:44]}  Qxb4 {[%clk 0:01:34]} 20. Rb1 {[%clk 0:01:38]}  Qxa5 {[%clk 0:01:30]} 21. Rxb7 {[%clk 0:01:31]}  Bc6 {[%clk 0:01:16]} 22. Bxf7+ {[%clk 0:01:22]}  Kxf7 {[%clk 0:01:17]} 23. Qxc6 {[%clk 0:01:22]}  Kg8 {[%clk 0:00:46]} 24. Rxc7 {[%clk 0:01:04]}  exd4 {[%clk 0:00:25]} 25. Qb7 {[%clk 0:00:52]}  Nh5 {[%clk 0:00:17]} 26. exd4 {[%clk 0:00:49]}  Rxd4 {[%clk 0:00:07]} 27. Nxd4 {[%clk 0:00:36]}  Qxd2 {[%clk 0:00:07]} 28. Qd5+ {[%clk 0:00:36]}  Kh7 {[%clk 0:00:03]} 29. Nf5 {[%clk 0:00:28]}  Qxd5 {[%clk 0:00:01]} 30. exd5 {[%clk 0:00:28]}  Nhf4 {[%clk 0:00:02]} 31. Nxg7 {[%clk 0:00:20]}  Re2 {[%clk 0:00:01]} 32. Ne6+ {[%clk 0:00:19]}  Kh8 {[%clk 0:00:02]} 33. Nxf4 {[%clk 0:00:20]}  Nxf4 {[%clk 0:00:02]} 34. Rxf4 {[%clk 0:00:20]} 1-0

@@ -1,0 +1,15 @@
+[Event "Titled Tuesday Blitz June 28 Early 2022"]
+[White "Deac, Bogdan-Daniel"]
+[Black "Dobre, Claudiu-Cristian"]
+[WhiteFideId "1226380"]
+[BlackFideId "1211854"]
+[WhiteElo "2648"]
+[BlackElo "2207"]
+[Result "1-0"]
+[Round "03"]
+[TimeControl "180+1"]
+[Date "2022.06.28"]
+[WhiteClock "0:00:25"]
+[BlackClock "0:00:03"]
+
+1. e4 {[%clk 0:03:00]}  Nc6 {[%clk 0:02:59]} 2. Nf3 {[%clk 0:03:00]}  d6 {[%clk 0:02:59]} 3. d4 {[%clk 0:03:00]}  Nf6 {[%clk 0:03:00]} 4. c3 {[%clk 0:03:00]}  e5 {[%clk 0:02:51]} 5. Bb5 {[%clk 0:02:55]}  Bd7 {[%clk 0:02:48]} 6. Nbd2 {[%clk 0:02:54]}  a6 {[%clk 0:02:38]} 7. Ba4 {[%clk 0:02:53]}  b5 {[%clk 0:02:32]} 8. Bb3 {[%clk 0:02:51]}  Na5 {[%clk 0:02:32]} 9. dxe5 {[%clk 0:02:48]}  Nxb3 {[%clk 0:02:27]} 10. Qxb3 {[%clk 0:02:44]}  Ng4 {[%clk 0:02:02]} 11. exd6 {[%clk 0:02:41]}  Bxd6 {[%clk 0:02:02]} 12. h3 {[%clk 0:02:41]}  Ne5 {[%clk 0:01:52]} 13. Nxe5 {[%clk 0:02:34]}  Bxe5 {[%clk 0:01:51]} 14. Nf3 {[%clk 0:02:33]}  Be6 {[%clk 0:01:41]} 15. Qc2 {[%clk 0:02:32]}  f6 {[%clk 0:01:37]} 16. O-O {[%clk 0:02:24]}  O-O {[%clk 0:01:36]} 17. Be3 {[%clk 0:02:18]}  Qe7 {[%clk 0:01:31]} 18. a4 {[%clk 0:02:15]}  b4 {[%clk 0:00:42]} 19. cxb4 {[%clk 0:02:02]}  Bd6 {[%clk 0:00:26]} 20. Nd4 {[%clk 0:01:53]}  Bd7 {[%clk 0:00:25]} 21. b5 {[%clk 0:01:46]}  axb5 {[%clk 0:00:17]} 22. axb5 {[%clk 0:01:46]}  Rxa1 {[%clk 0:00:16]} 23. Rxa1 {[%clk 0:01:46]}  Re8 {[%clk 0:00:17]} 24. Ra7 {[%clk 0:01:03]}  Qe5 {[%clk 0:00:14]} 25. b6 {[%clk 0:01:02]}  Qh2+ {[%clk 0:00:14]} 26. Kf1 {[%clk 0:01:02]}  Qh1+ {[%clk 0:00:14]} 27. Ke2 {[%clk 0:01:01]}  Qxg2 {[%clk 0:00:11]} 28. bxc7 {[%clk 0:00:54]}  Bxh3 {[%clk 0:00:11]} 29. Qc4+ {[%clk 0:00:33]}  Kh8 {[%clk 0:00:09]} 30. Qc6 {[%clk 0:00:27]}  Qf1+ {[%clk 0:00:09]} 31. Kd2 {[%clk 0:00:27]}  Bb4+ {[%clk 0:00:09]} 32. Kc2 {[%clk 0:00:27]}  Rc8 {[%clk 0:00:07]} 33. Ra8 {[%clk 0:00:25]}  Qg2 {[%clk 0:00:03]} 34. Rxc8+ {[%clk 0:00:25]} 1-0

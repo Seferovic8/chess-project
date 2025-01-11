@@ -1,0 +1,15 @@
+[Event "Chess.com Rapid Chess Championship 2022 Week 16 - Swiss"]
+[White "Sarana, Alexey"]
+[Black "Durarbayli, Vasif"]
+[WhiteFideId "24133795"]
+[BlackFideId "13402935"]
+[WhiteElo "2666"]
+[BlackElo "2528"]
+[Result "0-1"]
+[Round "05"]
+[TimeControl "600"]
+[Date "2022.05.28"]
+[WhiteClock "0:06:43"]
+[BlackClock "0:04:24"]
+
+1. d4 {[%clk 0:09:59]}  Nf6 {[%clk 0:09:58]} 2. c4 {[%clk 0:09:59]}  e6 {[%clk 0:09:58]} 3. Nc3 {[%clk 0:09:55]}  Bb4 {[%clk 0:09:57]} 4. e3 {[%clk 0:09:55]}  O-O {[%clk 0:09:53]} 5. Bd3 {[%clk 0:09:54]}  d5 {[%clk 0:09:52]} 6. a3 {[%clk 0:09:53]}  Bxc3+ {[%clk 0:09:51]} 7. bxc3 {[%clk 0:09:53]}  dxc4 {[%clk 0:09:50]} 8. Bxc4 {[%clk 0:09:53]}  c5 {[%clk 0:09:50]} 9. Ne2 {[%clk 0:09:52]}  Qc7 {[%clk 0:09:47]} 10. Bd3 {[%clk 0:09:51]}  b6 {[%clk 0:09:41]} 11. e4 {[%clk 0:09:50]}  Bb7 {[%clk 0:09:04]} 12. f3 {[%clk 0:09:33]}  Nc6 {[%clk 0:08:06]} 13. O-O {[%clk 0:09:15]}  Rfd8 {[%clk 0:07:47]} 14. Be3 {[%clk 0:09:13]}  Rac8 {[%clk 0:07:08]} 15. Qe1 {[%clk 0:09:01]}  Qe7 {[%clk 0:06:25]} 16. Qh4 {[%clk 0:08:48]}  cxd4 {[%clk 0:06:01]} 17. cxd4 {[%clk 0:08:17]}  e5 {[%clk 0:06:00]} 18. Rad1 {[%clk 0:07:39]}  exd4 {[%clk 0:05:28]} 19. Bg5 {[%clk 0:07:36]}  Ne5 {[%clk 0:05:26]} 20. Ng3 {[%clk 0:07:21]}  Ng6 {[%clk 0:04:36]} 21. Nf5 {[%clk 0:06:47]}  Qxa3 {[%clk 0:04:32]} 22. Qh5 {[%clk 0:06:43]}  Nxh5 {[%clk 0:04:24]} 0-1

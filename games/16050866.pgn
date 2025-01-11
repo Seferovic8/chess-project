@@ -1,0 +1,15 @@
+[Event "Indian FIDE World Cup Qualifer 2021"]
+[White "Aditya, Mittal"]
+[Black "Sengupta, Deep"]
+[WhiteFideId "35042025"]
+[BlackFideId "5008352"]
+[WhiteElo "2438"]
+[BlackElo "2527"]
+[Result "1-0"]
+[Round "16"]
+[TimeControl "5400+30"]
+[Date "Sun May 30 2021"]
+[WhiteClock "0:02:32"]
+[BlackClock "0:04:56"]
+
+1. Nf3 {[%clk 0:15:08]}  d5 {[%clk 0:15:06]} 2. g3 {[%clk 0:14:40]}  c6 {[%clk 0:14:40]} 3. Bg2 {[%clk 0:14:47]}  Nf6 {[%clk 0:14:48]} 4. O-O {[%clk 0:14:48]}  Bg4 {[%clk 0:13:53]} 5. d3 {[%clk 0:14:40]}  Nbd7 {[%clk 0:13:56]} 6. h3 {[%clk 0:14:40]}  Bh5 {[%clk 0:13:48]} 7. c4 {[%clk 0:14:43]}  e6 {[%clk 0:13:54]} 8. cxd5 {[%clk 0:14:04]}  Bxf3 {[%clk 0:13:06]} 9. dxe6 {[%clk 0:13:26]}  Bxg2 {[%clk 0:12:42]} 10. exd7+ {[%clk 0:13:33]}  Qxd7 {[%clk 0:12:51]} 11. Kxg2 {[%clk 0:13:42]}  h5 {[%clk 0:12:55]} 12. h4 {[%clk 0:11:39]}  Be7 {[%clk 0:12:48]} 13. Nc3 {[%clk 0:11:42]}  Ng4 {[%clk 0:12:27]} 14. Qa4 {[%clk 0:09:39]}  f6 {[%clk 0:11:43]} 15. Bd2 {[%clk 0:07:22]}  g5 {[%clk 0:11:37]} 16. f3 {[%clk 0:05:26]}  Ne5 {[%clk 0:11:01]} 17. hxg5 {[%clk 0:05:28]}  fxg5 {[%clk 0:11:08]} 18. Qe4 {[%clk 0:05:31]}  Nf7 {[%clk 0:10:46]} 19. Be3 {[%clk 0:04:39]}  Rh6 {[%clk 0:08:41]} 20. f4 {[%clk 0:03:45]}  Re6 {[%clk 0:07:28]} 21. Qd4 {[%clk 0:03:41]}  Rd6 {[%clk 0:07:27]} 22. Qg7 {[%clk 0:03:10]}  Bf8 {[%clk 0:07:30]} 23. Qh7 {[%clk 0:02:56]}  Rh6 {[%clk 0:05:46]} 24. Qe4+ {[%clk 0:03:04]}  Re6 {[%clk 0:05:54]} 25. Qf3 {[%clk 0:03:13]}  gxf4 {[%clk 0:04:48]} 26. Bxf4 {[%clk 0:03:15]}  h4 {[%clk 0:04:56]} 27. Ne4 {[%clk 0:02:32]} 1-0

@@ -1,0 +1,15 @@
+[Event "SCC Grand Prix 1 2021"]
+[White "Swiercz, Dariusz"]
+[Black "Srihari, L R"]
+[WhiteFideId "1126881"]
+[BlackFideId "46617116"]
+[WhiteElo "2689"]
+[BlackElo "2121"]
+[Result "0-1"]
+[Round "04"]
+[TimeControl "180+1"]
+[Date "2021.09.18"]
+[WhiteClock "0:00:10"]
+[BlackClock "0:00:16"]
+
+1. Nf3 {[%clk 0:03:00]}  d5 {[%clk 0:02:59]} 2. b3 {[%clk 0:03:01]}  Nf6 {[%clk 0:02:59]} 3. Bb2 {[%clk 0:03:01]}  c5 {[%clk 0:02:59]} 4. e3 {[%clk 0:03:02]}  a6 {[%clk 0:02:58]} 5. d4 {[%clk 0:03:01]}  e6 {[%clk 0:02:54]} 6. Nbd2 {[%clk 0:03:01]}  Nc6 {[%clk 0:02:55]} 7. a3 {[%clk 0:03:01]}  b6 {[%clk 0:02:53]} 8. Bd3 {[%clk 0:03:01]}  Bb7 {[%clk 0:02:53]} 9. O-O {[%clk 0:03:02]}  Bd6 {[%clk 0:02:53]} 10. Qe2 {[%clk 0:03:01]}  Qc7 {[%clk 0:02:45]} 11. c4 {[%clk 0:02:48]}  O-O {[%clk 0:02:33]} 12. Rac1 {[%clk 0:02:47]}  Rfe8 {[%clk 0:02:21]} 13. dxc5 {[%clk 0:02:37]}  bxc5 {[%clk 0:02:14]} 14. Bxf6 {[%clk 0:02:37]}  gxf6 {[%clk 0:02:13]} 15. cxd5 {[%clk 0:02:37]}  exd5 {[%clk 0:02:13]} 16. Nh4 {[%clk 0:02:38]}  Ne5 {[%clk 0:02:11]} 17. Nf5 {[%clk 0:02:01]}  Kh8 {[%clk 0:02:01]} 18. Nf3 {[%clk 0:01:52]}  d4 {[%clk 0:01:36]} 19. Nxe5 {[%clk 0:01:37]}  Rxe5 {[%clk 0:01:16]} 20. Qh5 {[%clk 0:01:33]}  Rg8 {[%clk 0:01:12]} 21. e4 {[%clk 0:01:08]}  Rg5 {[%clk 0:00:59]} 22. Qh3 {[%clk 0:00:48]}  Rexf5 {[%clk 0:00:45]} 23. exf5 {[%clk 0:00:48]}  Bxg2 {[%clk 0:00:25]} 24. Qxg2 {[%clk 0:00:48]}  Rxg2+ {[%clk 0:00:25]} 25. Kxg2 {[%clk 0:00:49]}  Qb7+ {[%clk 0:00:25]} 26. f3 {[%clk 0:00:32]}  Qxb3 {[%clk 0:00:23]} 27. Rfd1 {[%clk 0:00:32]}  c4 {[%clk 0:00:21]} 28. Bxc4 {[%clk 0:00:25]}  Qb2+ {[%clk 0:00:20]} 29. Kf1 {[%clk 0:00:26]}  Qxh2 {[%clk 0:00:19]} 30. Bxf7 {[%clk 0:00:20]}  Bg3 {[%clk 0:00:17]} 31. Rc8+ {[%clk 0:00:09]}  Kg7 {[%clk 0:00:17]} 32. Rg8+ {[%clk 0:00:08]}  Kxf7 {[%clk 0:00:17]} 33. Rxg3 {[%clk 0:00:09]}  Qxg3 {[%clk 0:00:17]} 34. Rd3 {[%clk 0:00:10]}  h5 {[%clk 0:00:16]} 0-1

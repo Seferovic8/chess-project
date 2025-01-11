@@ -1,0 +1,18 @@
+[Event "January 30 Early 2024"]
+[Date "2024.01.30"]
+[Round "4"]
+[White "Maksimovic, Bojan"]
+[Black "Duda, Jan-Krzysztof"]
+[Result "0-1"]
+[Board "10"]
+[TimeControl "180+1"]
+[WhiteFideId "14408120"]
+[BlackFideId "1170546"]
+[WhiteElo "2877"]
+[BlackElo "3054"]
+[WhiteTeam "BIH"]
+[BlackTeam "POL"]
+[WhiteClock "0:00:00"]
+[BlackClock "0:02:12"]
+
+1. e4 {[%clk 0:03:00]}  c5 {[%clk 0:02:59]} 2. Nf3 {[%clk 0:03:00]}  d6 {[%clk 0:02:58]} 3. d4 {[%clk 0:03:00]}  cxd4 {[%clk 0:02:58]} 4. Nxd4 {[%clk 0:03:01]}  Nf6 {[%clk 0:02:58]} 5. Nc3 {[%clk 0:03:01]}  a6 {[%clk 0:02:59]} 6. Be2 {[%clk 0:03:00]}  g6 {[%clk 0:02:57]} 7. Be3 {[%clk 0:02:33]}  Nc6 {[%clk 0:02:51]} 8. Qd2 {[%clk 0:02:23]}  h5 {[%clk 0:02:39]} 9. O-O-O {[%clk 0:02:14]}  Bd7 {[%clk 0:02:38]} 10. f4 {[%clk 0:02:13]}  Bg7 {[%clk 0:02:37]} 11. Bf3 {[%clk 0:01:43]}  Rc8 {[%clk 0:02:33]} 12. Nxc6 {[%clk 0:01:02]}  Bxc6 {[%clk 0:02:32]} 13. e5 {[%clk 0:01:03]}  dxe5 {[%clk 0:02:29]} 14. Qxd8+ {[%clk 0:00:40]}  Rxd8 {[%clk 0:02:30]} 15. Rxd8+ {[%clk 0:00:41]}  Kxd8 {[%clk 0:02:30]} 16. fxe5 {[%clk 0:00:37]}  Ng4 {[%clk 0:02:29]} 17. Bb6+ {[%clk 0:00:36]}  Kd7 {[%clk 0:02:21]} 18. Rd1+ {[%clk 0:00:28]}  Ke6 {[%clk 0:02:20]} 19. Nd5 {[%clk 0:00:26]}  Bxe5 {[%clk 0:02:14]} 20. Re1 {[%clk 0:00:00]}  Bxd5 {[%clk 0:02:12]} 0-1

@@ -1,0 +1,15 @@
+[Event "2021-magnus-carlsen-invitational-knockout"]
+[White "Giri, Anish"]
+[Black "So, Wesley"]
+[WhiteFideId "24116068"]
+[BlackFideId "5202213"]
+[WhiteElo "2776"]
+[BlackElo "2770"]
+[Result "0-1"]
+[Round "03-01"]
+[Date "Thu Mar 18 2021"]
+[WhiteClock "0:01:02"]
+[BlackClock "0:04:46"]
+
+
+1. e4 {[%clk 0:15:20]}  e5 {[%clk 0:15:20]} 2. Nf3 {[%clk 0:15:28]}  Nc6 {[%clk 0:15:28]} 3. Bb5 {[%clk 0:00:00]}  Nf6 {[%clk 0:15:29]} 4. d3 {[%clk 0:00:09]}  Bc5 {[%clk 0:15:35]} 5. Bxc6 {[%clk 0:00:18]}  dxc6 {[%clk 0:15:29]} 6. O-O {[%clk 0:00:27]}  Nd7 {[%clk 0:15:37]} 7. c3 {[%clk 0:00:35]}  O-O {[%clk 0:15:45]} 8. d4 {[%clk 0:00:43]}  Bd6 {[%clk 0:15:54]} 9. Bg5 {[%clk 0:16:26]}  f6 {[%clk 0:16:17]} 10. Bh4 {[%clk 0:16:35]}  Qe7 {[%clk 0:16:25]} 11. Nbd2 {[%clk 0:16:41]}  Qf7 {[%clk 0:16:28]} 12. Bg3 {[%clk 0:16:17]}  Re8 {[%clk 0:16:11]} 13. Qc2 {[%clk 0:15:52]}  a5 {[%clk 0:15:03]} 14. b3 {[%clk 0:16:00]}  exd4 {[%clk 0:14:40]} 15. cxd4 {[%clk 0:14:23]}  Bxg3 {[%clk 0:13:16]} 16. hxg3 {[%clk 0:15:12]}  Nb6 {[%clk 0:13:25]} 17. a4 {[%clk 0:13:35]}  Bg4 {[%clk 0:12:45]} 18. Rfe1 {[%clk 0:13:24]}  h6 {[%clk 0:12:34]} 19. Re3 {[%clk 0:13:45]}  Re7 {[%clk 0:11:53]} 20. Rae1 {[%clk 0:13:13]}  Rae8 {[%clk 0:12:00]} 21. Qc3 {[%clk 0:12:31]}  Qh5 {[%clk 0:12:07]} 22. Nh2 {[%clk 0:11:31]}  Be6 {[%clk 0:12:05]} 23. f4 {[%clk 0:11:58]}  f5 {[%clk 0:10:11]} 24. Qxa5 {[%clk 0:10:43]}  Bf7 {[%clk 0:09:06]} 25. g4 {[%clk 0:07:20]}  fxg4 {[%clk 0:08:45]} 26. Qc3 {[%clk 0:05:48]}  Qh4 {[%clk 0:06:14]} 27. Ndf1 {[%clk 0:01:21]}  g3 {[%clk 0:05:26]} 28. Nxg3 {[%clk 0:03:52]}  Qxf4 {[%clk 0:05:34]} 29. Nf5 {[%clk 0:03:16]}  Rxe4 {[%clk 0:05:15]} 30. Rxe4 {[%clk 0:02:12]}  Rxe4 {[%clk 0:04:43]} 31. Rf1 {[%clk 0:01:24]}  Qg5 {[%clk 0:05:25]} 32. Nxh6+ {[%clk 0:01:02]}  gxh6 {[%clk 0:04:46]} 0-1

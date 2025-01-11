@@ -1,0 +1,18 @@
+[Event "Play-In"]
+[Date "2024.01.31"]
+[Round "3"]
+[White "Bharath Subramaniyam H"]
+[Black "Suyarov, Mukhammadzokhid"]
+[Result "0-1"]
+[Board "17"]
+[TimeControl "600+2"]
+[WhiteFideId "46634827"]
+[BlackFideId "14210495"]
+[WhiteElo "2592"]
+[BlackElo "2720"]
+[WhiteTeam "IND"]
+[BlackTeam "UZB"]
+[WhiteClock "0:05:14"]
+[BlackClock "0:05:03"]
+
+1. d4 {[%clk 0:09:50]}  e6 {[%clk 0:09:59]} 2. Bf4 {[%clk 0:09:51]}  Nf6 {[%clk 0:09:59]} 3. e3 {[%clk 0:09:52]}  c5 {[%clk 0:09:59]} 4. Nf3 {[%clk 0:09:53]}  Nc6 {[%clk 0:10:00]} 5. Nbd2 {[%clk 0:09:50]}  d5 {[%clk 0:10:01]} 6. c3 {[%clk 0:09:50]}  Be7 {[%clk 0:10:01]} 7. Ne5 {[%clk 0:09:51]}  Nd7 {[%clk 0:10:00]} 8. Bd3 {[%clk 0:09:39]}  Ndxe5 {[%clk 0:09:48]} 9. dxe5 {[%clk 0:09:39]}  Bd7 {[%clk 0:09:49]} 10. Nf3 {[%clk 0:09:23]}  g5 {[%clk 0:09:35]} 11. Bg3 {[%clk 0:09:23]}  h5 {[%clk 0:09:36]} 12. h3 {[%clk 0:09:12]}  Qb6 {[%clk 0:09:32]} 13. Qc2 {[%clk 0:08:54]}  O-O-O {[%clk 0:08:38]} 14. O-O-O {[%clk 0:08:48]}  Kb8 {[%clk 0:08:02]} 15. h4 {[%clk 0:08:24]}  g4 {[%clk 0:07:56]} 16. Ng5 {[%clk 0:08:25]}  Rhf8 {[%clk 0:07:54]} 17. f4 {[%clk 0:08:02]}  c4 {[%clk 0:07:51]} 18. Rhe1 {[%clk 0:07:30]}  cxd3 {[%clk 0:07:50]} 19. Qxd3 {[%clk 0:07:31]}  Rc8 {[%clk 0:07:43]} 20. Kb1 {[%clk 0:07:25]}  Na5 {[%clk 0:07:39]} 21. Ka1 {[%clk 0:06:20]}  Ba4 {[%clk 0:07:02]} 22. Rb1 {[%clk 0:05:55]}  Nb3+ {[%clk 0:05:23]} 23. axb3 {[%clk 0:05:55]}  Bxb3 {[%clk 0:05:25]} 24. Rbd1 {[%clk 0:05:56]}  Qa5+ {[%clk 0:05:23]} 25. Kb1 {[%clk 0:05:58]}  Qa2+ {[%clk 0:05:23]} 26. Kc1 {[%clk 0:05:59]}  Ba3 {[%clk 0:05:15]} 27. Re2 {[%clk 0:05:17]}  Rxc3+ {[%clk 0:05:02]} 28. Qxc3 {[%clk 0:05:14]}  Qa1+ {[%clk 0:05:03]} 0-1

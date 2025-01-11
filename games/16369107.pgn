@@ -1,0 +1,15 @@
+[Event "FIDE World Blitz Chess Championship 2022"]
+[White "Amin, Bassem"]
+[Black "Sargissian, Gabriel"]
+[WhiteFideId "10601457"]
+[BlackFideId "13300881"]
+[WhiteElo "2682"]
+[BlackElo "2699"]
+[Result "1-0"]
+[Round "16"]
+[TimeControl "180+2"]
+[Date "2022.12.30"]
+[WhiteClock "0:00:26"]
+[BlackClock "0:00:30"]
+
+1. e4 {[%clk 0:03:03]}  e5 {[%clk 0:03:03]} 2. Nf3 {[%clk 0:03:04]}  Nc6 {[%clk 0:03:03]} 3. Bc4 {[%clk 0:03:05]}  Nf6 {[%clk 0:03:04]} 4. d3 {[%clk 0:03:06]}  Bc5 {[%clk 0:03:05]} 5. c3 {[%clk 0:03:04]}  d6 {[%clk 0:03:05]} 6. O-O {[%clk 0:03:03]}  a5 {[%clk 0:03:06]} 7. Re1 {[%clk 0:02:59]}  Ba7 {[%clk 0:03:07]} 8. Bb3 {[%clk 0:02:46]}  O-O {[%clk 0:02:59]} 9. h3 {[%clk 0:02:46]}  h6 {[%clk 0:02:53]} 10. Nbd2 {[%clk 0:02:40]}  Be6 {[%clk 0:02:52]} 11. Bc2 {[%clk 0:02:39]}  Ne7 {[%clk 0:02:47]} 12. Nf1 {[%clk 0:02:37]}  Ng6 {[%clk 0:02:48]} 13. Ng3 {[%clk 0:02:34]}  c6 {[%clk 0:02:48]} 14. d4 {[%clk 0:02:33]}  b5 {[%clk 0:02:40]} 15. Be3 {[%clk 0:02:32]}  Qc7 {[%clk 0:02:36]} 16. Qd2 {[%clk 0:02:31]}  Kh7 {[%clk 0:02:24]} 17. Nf5 {[%clk 0:02:19]}  Ng8 {[%clk 0:02:03]} 18. a4 {[%clk 0:01:55]}  Bb6 {[%clk 0:01:47]} 19. Nh2 {[%clk 0:01:18]}  b4 {[%clk 0:01:37]} 20. Ng4 {[%clk 0:01:17]}  c5 {[%clk 0:01:25]} 21. d5 {[%clk 0:01:15]}  Bd7 {[%clk 0:01:20]} 22. c4 {[%clk 0:01:15]}  Qb8 {[%clk 0:01:09]} 23. b3 {[%clk 0:01:11]}  Bd8 {[%clk 0:01:09]} 24. Rf1 {[%clk 0:00:53]}  Bf6 {[%clk 0:01:05]} 25. Nxf6+ {[%clk 0:00:46]}  Nxf6 {[%clk 0:01:06]} 26. Bxh6 {[%clk 0:00:35]}  Bxf5 {[%clk 0:01:05]} 27. exf5 {[%clk 0:00:34]}  gxh6 {[%clk 0:01:06]} 28. fxg6+ {[%clk 0:00:34]}  fxg6 {[%clk 0:01:07]} 29. f4 {[%clk 0:00:33]}  exf4 {[%clk 0:00:57]} 30. Qd3 {[%clk 0:00:29]}  Rg8 {[%clk 0:00:34]} 31. Rxf4 {[%clk 0:00:29]}  Nh5 {[%clk 0:00:30]} 32. Rf7+ {[%clk 0:00:29]}  Kh8 {[%clk 0:00:30]} 33. Qe3 {[%clk 0:00:26]} 1-0

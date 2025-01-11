@@ -1,0 +1,16 @@
+[Event "Sebes Grand Prix Rapid 2023"]
+[White "Kantor, Gergely"]
+[Black "Magold, Filip"]
+[WhiteFideId "751499"]
+[BlackFideId "1254456"]
+[WhiteElo "2483"]
+[BlackElo "2218"]
+[Result "1-0"]
+[Round "7"]
+[TimeControl "600+5"]
+[Date "2023.11.05"]
+[WhiteClock "0:05:09"]
+[BlackClock "0:06:49"]
+[Board "5"]
+
+1. d4 {[%clk 0:15:09]}  d5 {[%clk 0:15:09]} 2. c4 {[%clk 0:15:13]}  dxc4 {[%clk 0:15:13]} 3. e4 {[%clk 0:15:10]}  e5 {[%clk 0:14:48]} 4. Nf3 {[%clk 0:15:09]}  Bb4+ {[%clk 0:14:45]} 5. Nc3 {[%clk 0:14:50]}  exd4 {[%clk 0:14:44]} 6. Nxd4 {[%clk 0:14:53]}  Nf6 {[%clk 0:14:29]} 7. Qa4+ {[%clk 0:14:30]}  c6 {[%clk 0:14:08]} 8. Qxb4 {[%clk 0:14:06]}  Qxd4 {[%clk 0:14:11]} 9. Bxc4 {[%clk 0:10:13]}  Be6 {[%clk 0:13:31]} 10. Qxb7 {[%clk 0:09:40]}  Bxc4 {[%clk 0:13:31]} 11. Be3 {[%clk 0:08:42]}  Qd7 {[%clk 0:13:17]} 12. Qxa8 {[%clk 0:08:35]}  O-O {[%clk 0:13:20]} 13. Qxa7 {[%clk 0:08:26]}  Qg4 {[%clk 0:13:24]} 14. Qd4 {[%clk 0:07:59]}  Ba6 {[%clk 0:13:27]} 15. h3 {[%clk 0:07:00]}  Qxg2 {[%clk 0:11:24]} 16. O-O-O {[%clk 0:07:00]}  Qf3 {[%clk 0:11:07]} 17. Rhg1 {[%clk 0:06:48]}  Nbd7 {[%clk 0:08:31]} 18. Bh6 {[%clk 0:06:29]}  g6 {[%clk 0:08:21]} 19. Rg3 {[%clk 0:06:10]}  Qh5 {[%clk 0:08:25]} 20. Bxf8 {[%clk 0:06:12]}  Kxf8 {[%clk 0:08:29]} 21. Qd6+ {[%clk 0:05:48]}  Kg7 {[%clk 0:08:30]} 22. Qxc6 {[%clk 0:05:45]}  Nc5 {[%clk 0:06:49]} 23. b4 {[%clk 0:05:09]} 1-0

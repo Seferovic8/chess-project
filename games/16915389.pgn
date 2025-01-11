@@ -1,0 +1,18 @@
+[Event "Main Event"]
+[Date "2024.01.22"]
+[Round "1.1"]
+[White "Tomczak, Jacek"]
+[Black "Kozak, Antoni"]
+[Result "1/2-1/2"]
+[Board "1"]
+[TimeControl "300+2"]
+[WhiteFideId "1124668"]
+[BlackFideId "21832030"]
+[WhiteElo "2753"]
+[BlackElo "2812"]
+[WhiteTeam "POL"]
+[BlackTeam "POL"]
+[WhiteClock "0:00:58"]
+[BlackClock "0:01:03"]
+
+1. e4 {[%clk 0:05:02]}  c5 {[%clk 0:04:58]} 2. Nf3 {[%clk 0:05:02]}  Nc6 {[%clk 0:04:59]} 3. d4 {[%clk 0:05:03]}  cxd4 {[%clk 0:05:01]} 4. Nxd4 {[%clk 0:05:04]}  e5 {[%clk 0:05:02]} 5. Nb5 {[%clk 0:05:05]}  d6 {[%clk 0:05:03]} 6. N5c3 {[%clk 0:05:03]}  Nf6 {[%clk 0:04:59]} 7. Bg5 {[%clk 0:05:03]}  Qb6 {[%clk 0:05:00]} 8. b3 {[%clk 0:04:53]}  Be6 {[%clk 0:04:26]} 9. Be2 {[%clk 0:04:20]}  Be7 {[%clk 0:03:57]} 10. O-O {[%clk 0:04:14]}  Rc8 {[%clk 0:03:18]} 11. Bxf6 {[%clk 0:03:54]}  gxf6 {[%clk 0:03:16]} 12. Nd5 {[%clk 0:03:46]}  Qd4 {[%clk 0:03:08]} 13. Nbc3 {[%clk 0:03:39]}  Qxd1 {[%clk 0:03:07]} 14. Rfxd1 {[%clk 0:03:21]}  Nd4 {[%clk 0:03:00]} 15. Bd3 {[%clk 0:03:20]}  Rg8 {[%clk 0:02:51]} 16. Nb5 {[%clk 0:03:02]}  Nxb5 {[%clk 0:02:03]} 17. Bxb5+ {[%clk 0:03:01]}  Kf8 {[%clk 0:02:05]} 18. Ne3 {[%clk 0:02:52]}  a6 {[%clk 0:01:48]} 19. Bc4 {[%clk 0:02:51]}  b5 {[%clk 0:01:44]} 20. Bd5 {[%clk 0:02:52]}  Rc3 {[%clk 0:01:35]} 21. Rd3 {[%clk 0:02:34]}  Rc5 {[%clk 0:01:22]} 22. c4 {[%clk 0:02:27]}  Kg7 {[%clk 0:01:21]} 23. Rad1 {[%clk 0:02:18]}  Rb8 {[%clk 0:01:21]} 24. Nf5+ {[%clk 0:02:09]}  Bxf5 {[%clk 0:01:17]} 25. exf5 {[%clk 0:02:11]}  a5 {[%clk 0:01:00]} 26. Rg3+ {[%clk 0:02:09]}  Kf8 {[%clk 0:01:01]} 27. Rh3 {[%clk 0:01:26]}  Kg7 {[%clk 0:01:02]} 28. Rg3+ {[%clk 0:00:55]}  Kf8 {[%clk 0:01:02]} 29. Rh3 {[%clk 0:00:56]}  Kg7 {[%clk 0:01:03]} 30. Rg3+ {[%clk 0:00:58]} 1/2-1/2

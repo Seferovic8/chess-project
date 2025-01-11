@@ -1,0 +1,15 @@
+[Event "Junior Speed Chess Championship Qualifiers 2021"]
+[White "Lazavik, Denis"]
+[Black "Pultinevicius, Paulius"]
+[WhiteFideId "13515110"]
+[BlackFideId "12809390"]
+[WhiteElo "2436"]
+[BlackElo "2452"]
+[Result "0-1"]
+[Round "04-13"]
+[TimeControl "60+1"]
+[Date "2021.06.21"]
+[WhiteClock "0:00:06"]
+[BlackClock "0:00:11"]
+
+1. d4 {[%clk 0:01:01]}  Nf6 {[%clk 0:01:01]} 2. c4 {[%clk 0:01:01]}  e6 {[%clk 0:00:58]} 3. Nf3 {[%clk 0:01:01]}  d5 {[%clk 0:00:59]} 4. Nc3 {[%clk 0:01:01]}  c6 {[%clk 0:01:00]} 5. e3 {[%clk 0:01:00]}  Nbd7 {[%clk 0:00:59]} 6. Qc2 {[%clk 0:01:00]}  Bd6 {[%clk 0:01:00]} 7. b3 {[%clk 0:01:00]}  O-O {[%clk 0:00:59]} 8. Be2 {[%clk 0:01:01]}  Qe7 {[%clk 0:01:00]} 9. O-O {[%clk 0:00:58]}  dxc4 {[%clk 0:00:59]} 10. bxc4 {[%clk 0:00:56]}  e5 {[%clk 0:01:00]} 11. Rd1 {[%clk 0:00:53]}  Re8 {[%clk 0:00:59]} 12. Rb1 {[%clk 0:00:49]}  Rb8 {[%clk 0:00:55]} 13. a4 {[%clk 0:00:46]}  b6 {[%clk 0:00:54]} 14. Nd2 {[%clk 0:00:30]}  Bb7 {[%clk 0:00:44]} 15. Nde4 {[%clk 0:00:30]}  Bc7 {[%clk 0:00:42]} 16. Bf3 {[%clk 0:00:28]}  Rbd8 {[%clk 0:00:39]} 17. Qb3 {[%clk 0:00:24]}  Bb8 {[%clk 0:00:32]} 18. Ba3 {[%clk 0:00:23]}  Qe6 {[%clk 0:00:30]} 19. d5 {[%clk 0:00:19]}  cxd5 {[%clk 0:00:29]} 20. cxd5 {[%clk 0:00:20]}  Qf5 {[%clk 0:00:28]} 21. Ng3 {[%clk 0:00:20]}  Qg6 {[%clk 0:00:28]} 22. a5 {[%clk 0:00:19]}  e4 {[%clk 0:00:27]} 23. Be2 {[%clk 0:00:18]}  h5 {[%clk 0:00:27]} 24. axb6 {[%clk 0:00:18]}  axb6 {[%clk 0:00:26]} 25. Nf1 {[%clk 0:00:18]}  h4 {[%clk 0:00:25]} 26. h3 {[%clk 0:00:16]}  Re5 {[%clk 0:00:24]} 27. Nd2 {[%clk 0:00:14]}  Rg5 {[%clk 0:00:23]} 28. Bf1 {[%clk 0:00:14]}  Rc8 {[%clk 0:00:23]} 29. Nc4 {[%clk 0:00:14]}  Qf5 {[%clk 0:00:21]} 30. Nxb6 {[%clk 0:00:11]}  Qxh3 {[%clk 0:00:17]} 31. d6 {[%clk 0:00:09]}  Ne5 {[%clk 0:00:15]} 32. f4 {[%clk 0:00:05]}  exf3 {[%clk 0:00:12]} 33. Kf2 {[%clk 0:00:05]}  Rxg2+ {[%clk 0:00:12]} 34. Ke1 {[%clk 0:00:06]}  Qg3# {[%clk 0:00:11]} 0-1

@@ -1,0 +1,16 @@
+[Event "Spanish Premier Division 2023"]
+[White "Svane, Frederik"]
+[Black "Ayats Llobera, Gerard"]
+[WhiteFideId "12923044"]
+[BlackFideId "32067607"]
+[WhiteElo "2634"]
+[BlackElo "2471"]
+[Result "1-0"]
+[Round "1"]
+[TimeControl "5400+30"]
+[Date "2023.08.20"]
+[WhiteClock "0:19:56"]
+[BlackClock "0:45:46"]
+[Board "20"]
+
+1. e4 {[%clk 1:30:57]}  c5 {[%clk 1:30:19]} 2. Nc3 {[%clk 1:31:17]}  Nc6 {[%clk 1:30:17]} 3. Nf3 {[%clk 1:31:39]}  e6 {[%clk 1:29:00]} 4. d4 {[%clk 1:31:54]}  cxd4 {[%clk 1:29:10]} 5. Nxd4 {[%clk 1:32:16]}  Nf6 {[%clk 1:29:31]} 6. Nxc6 {[%clk 1:32:28]}  bxc6 {[%clk 1:29:56]} 7. e5 {[%clk 1:32:47]}  Nd5 {[%clk 1:30:22]} 8. Ne4 {[%clk 1:33:06]}  Qc7 {[%clk 1:24:38]} 9. f4 {[%clk 1:33:21]}  Qb6 {[%clk 1:23:06]} 10. a3 {[%clk 1:33:26]}  a5 {[%clk 1:18:00]} 11. c4 {[%clk 1:32:50]}  Ne3 {[%clk 1:18:15]} 12. Qd3 {[%clk 1:32:37]}  Nxf1 {[%clk 1:18:36]} 13. Rxf1 {[%clk 1:32:57]}  Be7 {[%clk 1:15:52]} 14. Bd2 {[%clk 0:35:00]}  Qxb2 {[%clk 0:57:38]} 15. Rb1 {[%clk 0:31:22]}  Qxa3 {[%clk 0:52:38]} 16. Qc2 {[%clk 0:28:30]}  Bb4 {[%clk 0:44:35]} 17. Rf3 {[%clk 0:26:29]}  Bxd2+ {[%clk 0:44:58]} 18. Qxd2 {[%clk 0:24:59]}  Qe7 {[%clk 0:45:23]} 19. Nd6+ {[%clk 0:25:09]}  Kf8 {[%clk 0:45:47]} 20. f5 {[%clk 0:22:03]}  exf5 {[%clk 0:46:10]} 21. Rxf5 {[%clk 0:20:10]}  Kg8 {[%clk 0:45:46]} 22. Qf4 {[%clk 0:19:56]} 1-0

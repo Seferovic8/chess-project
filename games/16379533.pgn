@@ -1,0 +1,15 @@
+[Event "Sliven Open 2022"]
+[White "Oparin, Grigoriy"]
+[Black "Brodsky, David"]
+[WhiteFideId "24125890"]
+[BlackFideId "2073250"]
+[WhiteElo "2670"]
+[BlackElo "2497"]
+[Result "1/2-1/2"]
+[Round "06"]
+[TimeControl "5400+30"]
+[Date "2023.01.08"]
+[WhiteClock "0:11:28"]
+[BlackClock "0:23:10"]
+
+1. d4 {[%clk 1:30:58]}  Nf6 {[%clk 1:28:37]} 2. c4 {[%clk 1:31:22]}  e6 {[%clk 1:29:04]} 3. Nf3 {[%clk 1:31:46]}  d5 {[%clk 1:29:30]} 4. g3 {[%clk 1:32:06]}  dxc4 {[%clk 1:29:55]} 5. Bg2 {[%clk 1:32:30]}  c6 {[%clk 1:30:21]} 6. a4 {[%clk 1:31:50]}  Bb4+ {[%clk 1:29:59]} 7. Bd2 {[%clk 1:31:49]}  a5 {[%clk 1:30:18]} 8. Qc2 {[%clk 1:29:57]}  O-O {[%clk 1:30:31]} 9. Bxb4 {[%clk 1:20:25]}  axb4 {[%clk 1:30:44]} 10. Qxc4 {[%clk 1:20:51]}  Qa5 {[%clk 1:30:41]} 11. Qc2 {[%clk 1:16:16]}  b5 {[%clk 1:24:27]} 12. b3 {[%clk 1:16:09]}  Bb7 {[%clk 1:20:28]} 13. O-O {[%clk 1:03:24]}  Rc8 {[%clk 1:18:39]} 14. Nbd2 {[%clk 1:01:57]}  Nbd7 {[%clk 1:18:31]} 15. Ne5 {[%clk 0:52:51]}  Qb6 {[%clk 1:06:29]} 16. Nxd7 {[%clk 0:49:27]}  Nxd7 {[%clk 1:06:52]} 17. Ne4 {[%clk 0:29:35]}  bxa4 {[%clk 0:56:26]} 18. bxa4 {[%clk 0:30:00]}  c5 {[%clk 0:44:20]} 19. a5 {[%clk 0:28:50]}  Qc7 {[%clk 0:42:01]} 20. dxc5 {[%clk 0:20:55]}  Nxc5 {[%clk 0:35:03]} 21. Qxc5 {[%clk 0:20:14]}  Qxc5 {[%clk 0:35:22]} 22. Nxc5 {[%clk 0:20:39]}  Bxg2 {[%clk 0:35:48]} 23. Rfc1 {[%clk 0:15:33]}  Bd5 {[%clk 0:30:58]} 24. e4 {[%clk 0:15:29]}  b3 {[%clk 0:27:09]} 25. Rab1 {[%clk 0:13:37]}  b2 {[%clk 0:26:39]} 26. Rc3 {[%clk 0:12:10]}  Rxa5 {[%clk 0:24:53]} 27. Rxb2 {[%clk 0:12:34]}  h6 {[%clk 0:21:55]} 28. exd5 {[%clk 0:10:41]}  Raxc5 {[%clk 0:22:17]} 29. Rxc5 {[%clk 0:11:08]}  Rxc5 {[%clk 0:22:43]} 30. dxe6 {[%clk 0:11:33]}  fxe6 {[%clk 0:23:10]} 31. h4 {[%clk 0:11:28]} 1/2-1/2

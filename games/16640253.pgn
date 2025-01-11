@@ -1,0 +1,16 @@
+[Event "Division II"]
+[White "Amin, Bassem"]
+[Black "Aronian, Levon"]
+[WhiteFideId "10601457"]
+[BlackFideId "13300474"]
+[WhiteElo "2679"]
+[BlackElo "2751"]
+[Result "1-0"]
+[Round "55.1"]
+[TimeControl "900+3"]
+[Date "2023.09.02"]
+[WhiteClock "0:01:58"]
+[BlackClock "0:02:04"]
+[Board "1"]
+
+1. Nf3 {[%clk 0:14:56]}  c5 {[%clk 0:15:00]} 2. g3 {[%clk 0:14:51]}  Nc6 {[%clk 0:14:58]} 3. Bg2 {[%clk 0:14:52]}  g6 {[%clk 0:14:56]} 4. O-O {[%clk 0:14:53]}  Bg7 {[%clk 0:14:57]} 5. d3 {[%clk 0:14:44]}  Nf6 {[%clk 0:14:33]} 6. e4 {[%clk 0:14:32]}  O-O {[%clk 0:14:33]} 7. Re1 {[%clk 0:14:22]}  d6 {[%clk 0:14:34]} 8. c3 {[%clk 0:14:08]}  e5 {[%clk 0:14:35]} 9. a4 {[%clk 0:14:05]}  a6 {[%clk 0:14:31]} 10. h3 {[%clk 0:13:55]}  Rb8 {[%clk 0:14:16]} 11. Be3 {[%clk 0:13:50]}  b5 {[%clk 0:14:10]} 12. axb5 {[%clk 0:13:52]}  axb5 {[%clk 0:14:12]} 13. Nbd2 {[%clk 0:13:54]}  Re8 {[%clk 0:14:10]} 14. d4 {[%clk 0:13:35]}  exd4 {[%clk 0:14:03]} 15. cxd4 {[%clk 0:13:38]}  c4 {[%clk 0:13:48]} 16. e5 {[%clk 0:11:43]}  Nd5 {[%clk 0:12:30]} 17. Bg5 {[%clk 0:11:34]}  Qd7 {[%clk 0:12:32]} 18. Ne4 {[%clk 0:11:23]}  h6 {[%clk 0:12:34]} 19. Nxd6 {[%clk 0:11:05]}  hxg5 {[%clk 0:12:36]} 20. Nxg5 {[%clk 0:11:07]}  Ncb4 {[%clk 0:12:00]} 21. Ngxf7 {[%clk 0:10:10]}  Rf8 {[%clk 0:12:00]} 22. e6 {[%clk 0:09:11]}  Qe7 {[%clk 0:11:59]} 23. Qg4 {[%clk 0:09:10]}  Qf6 {[%clk 0:11:38]} 24. Re5 {[%clk 0:08:26]}  Nd3 {[%clk 0:04:58]} 25. Bxd5 {[%clk 0:04:02]}  Qxf2+ {[%clk 0:04:58]} 26. Kh1 {[%clk 0:04:04]}  Bb7 {[%clk 0:04:26]} 27. Nxb7 {[%clk 0:03:05]}  Ra8 {[%clk 0:04:26]} 28. Rg1 {[%clk 0:02:18]}  Bxe5 {[%clk 0:02:58]} 29. dxe5 {[%clk 0:02:07]}  Rxf7 {[%clk 0:02:04]} 30. Qxg6+ {[%clk 0:01:58]} 1-0

@@ -1,0 +1,16 @@
+[Event "Titled Tuesday Blitz June 20 Early 2023"]
+[White "Puranik, Abhimanyu"]
+[Black "Henriquez Villagra, Cristobal"]
+[WhiteFideId "5061245"]
+[BlackFideId "3409350"]
+[WhiteElo "2460"]
+[BlackElo "2542"]
+[Result "1-0"]
+[Round "10"]
+[TimeControl "180+2"]
+[Date "2023.06.20"]
+[WhiteClock "0:01:15"]
+[BlackClock "0:00:29"]
+[Board "10"]
+
+1. Nf3 {[%clk 0:03:00]}  d6 {[%clk 0:02:38]} 2. c4 {[%clk 0:03:00]}  Nf6 {[%clk 0:02:39]} 3. Nc3 {[%clk 0:03:00]}  g6 {[%clk 0:02:25]} 4. g3 {[%clk 0:02:59]}  Bg7 {[%clk 0:02:26]} 5. Bg2 {[%clk 0:02:59]}  O-O {[%clk 0:02:26]} 6. O-O {[%clk 0:02:59]}  Nc6 {[%clk 0:02:23]} 7. d4 {[%clk 0:02:53]}  e5 {[%clk 0:02:23]} 8. h3 {[%clk 0:02:52]}  Bd7 {[%clk 0:02:22]} 9. Be3 {[%clk 0:02:48]}  a5 {[%clk 0:02:19]} 10. Rc1 {[%clk 0:02:42]}  Re8 {[%clk 0:02:13]} 11. Qd2 {[%clk 0:02:36]}  a4 {[%clk 0:02:12]} 12. Rfd1 {[%clk 0:02:34]}  Qc8 {[%clk 0:02:11]} 13. Kh2 {[%clk 0:02:31]}  Na5 {[%clk 0:02:04]} 14. Nd5 {[%clk 0:02:27]}  Ne4 {[%clk 0:01:45]} 15. Qc2 {[%clk 0:02:18]}  Bf5 {[%clk 0:01:33]} 16. g4 {[%clk 0:02:17]}  Nxf2 {[%clk 0:01:16]} 17. gxf5 {[%clk 0:02:17]}  Nxd1 {[%clk 0:01:15]} 18. Rxd1 {[%clk 0:02:15]}  Nc6 {[%clk 0:01:16]} 19. f6 {[%clk 0:02:13]}  Bf8 {[%clk 0:01:16]} 20. dxe5 {[%clk 0:02:07]}  dxe5 {[%clk 0:01:13]} 21. Ng5 {[%clk 0:02:07]}  Nd4 {[%clk 0:01:09]} 22. Bxd4 {[%clk 0:02:02]}  exd4 {[%clk 0:01:09]} 23. Rxd4 {[%clk 0:02:00]}  c6 {[%clk 0:01:10]} 24. Rh4 {[%clk 0:01:32]}  cxd5 {[%clk 0:01:03]} 25. Bxd5 {[%clk 0:01:30]}  Bd6+ {[%clk 0:00:38]} 26. Kh1 {[%clk 0:01:29]}  Re6 {[%clk 0:00:35]} 27. Bxe6 {[%clk 0:01:17]}  fxe6 {[%clk 0:00:36]} 28. Rxh7 {[%clk 0:01:16]}  Qc6+ {[%clk 0:00:36]} 29. e4 {[%clk 0:01:16]}  Ra5 {[%clk 0:00:29]} 30. f7+ {[%clk 0:01:15]} 1-0

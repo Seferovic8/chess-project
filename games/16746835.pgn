@@ -1,0 +1,16 @@
+[Event "Sebes Grand Prix Rapid 2023"]
+[White "Gavrilescu, David"]
+[Black "Chigaev, Maksim"]
+[WhiteFideId "1227190"]
+[BlackFideId "4108116"]
+[WhiteElo "2518"]
+[BlackElo "2592"]
+[Result "1/2-1/2"]
+[Round "7"]
+[TimeControl "600+5"]
+[Date "2023.11.05"]
+[WhiteClock "0:15:22"]
+[BlackClock "0:12:59"]
+[Board "1"]
+
+1. e4 {[%clk 0:15:06]}  e5 {[%clk 0:15:09]} 2. Nf3 {[%clk 0:15:09]}  Nc6 {[%clk 0:15:12]} 3. d4 {[%clk 0:15:11]}  exd4 {[%clk 0:15:10]} 4. Nxd4 {[%clk 0:15:14]}  Nf6 {[%clk 0:14:29]} 5. Nxc6 {[%clk 0:15:16]}  bxc6 {[%clk 0:14:33]} 6. Bd3 {[%clk 0:15:19]}  d5 {[%clk 0:14:34]} 7. exd5 {[%clk 0:15:21]}  cxd5 {[%clk 0:14:37]} 8. O-O {[%clk 0:15:24]}  Be7 {[%clk 0:14:41]} 9. c4 {[%clk 0:15:27]}  O-O {[%clk 0:14:44]} 10. cxd5 {[%clk 0:15:29]}  Nxd5 {[%clk 0:13:47]} 11. Be4 {[%clk 0:15:28]}  c6 {[%clk 0:12:59]} 12. Nc3 {[%clk 0:15:22]} 1/2-1/2

@@ -1,0 +1,15 @@
+[Event "FIDE Chess.com Grand Swiss 2021"]
+[White "Gukesh, D"]
+[Black "Artemiev, Vladislav"]
+[WhiteFideId "46616543"]
+[BlackFideId "24101605"]
+[WhiteElo "2640"]
+[BlackElo "2699"]
+[Result "1/2-1/2"]
+[Round "03"]
+[TimeControl "6000+30"]
+[Date "2021.10.29"]
+[WhiteClock "0:39:04"]
+[BlackClock "1:00:47"]
+
+1. d4 {[%clk 1:40:05]}  d5 {[%clk 1:40:38]} 2. c4 {[%clk 1:40:05]}  dxc4 {[%clk 1:40:55]} 3. e3 {[%clk 1:39:37]}  Nf6 {[%clk 1:40:52]} 4. Bxc4 {[%clk 1:39:56]}  e6 {[%clk 1:41:01]} 5. Nf3 {[%clk 1:40:06]}  c5 {[%clk 1:41:13]} 6. O-O {[%clk 1:39:21]}  a6 {[%clk 1:41:29]} 7. b3 {[%clk 1:33:01]}  cxd4 {[%clk 1:40:24]} 8. Nxd4 {[%clk 1:33:21]}  Be7 {[%clk 1:40:24]} 9. Bb2 {[%clk 1:33:40]}  O-O {[%clk 1:39:23]} 10. Be2 {[%clk 1:32:51]}  b5 {[%clk 1:32:32]} 11. Nd2 {[%clk 1:26:35]}  Bb7 {[%clk 1:32:47]} 12. a4 {[%clk 1:25:58]}  Nc6 {[%clk 1:29:45]} 13. Bf3 {[%clk 1:17:44]}  Nd5 {[%clk 1:26:40]} 14. axb5 {[%clk 1:05:56]}  Nxd4 {[%clk 1:26:35]} 15. Bxd4 {[%clk 1:06:17]}  axb5 {[%clk 1:26:59]} 16. Ne4 {[%clk 1:06:08]}  Nb4 {[%clk 1:21:21]} 17. Qe2 {[%clk 0:58:51]}  Bd5 {[%clk 1:03:04]} 18. Qxb5 {[%clk 0:47:36]}  Rb8 {[%clk 1:02:08]} 19. Qe2 {[%clk 0:46:47]}  Nc6 {[%clk 1:01:28]} 20. Bc3 {[%clk 0:38:48]}  Rxb3 {[%clk 1:01:28]} 21. Rfc1 {[%clk 0:37:30]}  h6 {[%clk 0:57:51]} 22. Nd2 {[%clk 0:37:30]}  Rxc3 {[%clk 0:58:06]} 23. Rxc3 {[%clk 0:37:53]}  Bf6 {[%clk 0:58:33]} 24. Rca3 {[%clk 0:37:49]}  Bxa1 {[%clk 0:58:47]} 25. Rxa1 {[%clk 0:38:13]}  Ne5 {[%clk 0:59:04]} 26. Bxd5 {[%clk 0:37:47]}  Qxd5 {[%clk 0:59:27]} 27. Nf3 {[%clk 0:37:56]}  Nxf3+ {[%clk 0:59:48]} 28. Qxf3 {[%clk 0:37:56]}  Qxf3 {[%clk 1:00:11]} 29. gxf3 {[%clk 0:38:47]}  g5 {[%clk 1:00:29]} 30. Ra4 {[%clk 0:39:04]}  Kg7 {[%clk 1:00:47]} 1/2-1/2

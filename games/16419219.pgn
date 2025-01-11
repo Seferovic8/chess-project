@@ -1,0 +1,15 @@
+[Event "Titled Tuesday Blitz May 9 Late 2023"]
+[White "Tang, Andrew"]
+[Black "Papasimakopoulos, Alexandros"]
+[WhiteFideId "2059630"]
+[BlackFideId "4244125"]
+[WhiteElo "2596"]
+[BlackElo "2359"]
+[Result "1-0"]
+[Round "04"]
+[TimeControl "180+2"]
+[Date "2023.05.09"]
+[WhiteClock "0:00:52"]
+[BlackClock "0:00:17"]
+
+1. d4 {[%clk 0:03:00]}  e6 {[%clk 0:02:59]} 2. Nf3 {[%clk 0:02:59]}  Nf6 {[%clk 0:02:57]} 3. Bf4 {[%clk 0:02:36]}  c5 {[%clk 0:02:57]} 4. e3 {[%clk 0:02:37]}  Qb6 {[%clk 0:02:58]} 5. Na3 {[%clk 0:02:37]}  cxd4 {[%clk 0:02:54]} 6. Nb5 {[%clk 0:02:35]}  Nd5 {[%clk 0:02:33]} 7. Qxd4 {[%clk 0:02:33]}  Qxd4 {[%clk 0:02:30]} 8. Nfxd4 {[%clk 0:02:33]}  Nxf4 {[%clk 0:02:15]} 9. Nc7+ {[%clk 0:02:32]}  Kd8 {[%clk 0:02:15]} 10. Nxa8 {[%clk 0:02:33]}  Nd5 {[%clk 0:02:04]} 11. g3 {[%clk 0:02:29]}  Nc6 {[%clk 0:01:54]} 12. Bg2 {[%clk 0:02:23]}  Ndb4 {[%clk 0:01:41]} 13. O-O-O {[%clk 0:01:56]}  Nxd4 {[%clk 0:01:00]} 14. Rxd4 {[%clk 0:01:48]}  Nc6 {[%clk 0:00:58]} 15. Bxc6 {[%clk 0:01:16]}  bxc6 {[%clk 0:00:58]} 16. Ra4 {[%clk 0:01:17]}  a6 {[%clk 0:00:46]} 17. Rd1 {[%clk 0:01:13]}  Bc5 {[%clk 0:00:38]} 18. Rc4 {[%clk 0:01:13]}  Be7 {[%clk 0:00:20]} 19. Rxc6 {[%clk 0:01:11]}  Bb7 {[%clk 0:00:20]} 20. Rc7 {[%clk 0:01:02]}  Bxa8 {[%clk 0:00:20]} 21. Rdxd7+ {[%clk 0:01:01]}  Ke8 {[%clk 0:00:20]} 22. Rxe7+ {[%clk 0:01:01]}  Kd8 {[%clk 0:00:21]} 23. Red7+ {[%clk 0:00:55]}  Ke8 {[%clk 0:00:21]} 24. Rxf7 {[%clk 0:00:52]}  Bd5 {[%clk 0:00:17]} 25. Rxg7 {[%clk 0:00:52]} 1-0

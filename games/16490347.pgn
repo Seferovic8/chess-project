@@ -1,0 +1,16 @@
+[Event "Main Event"]
+[White "Lazavik, Denis"]
+[Black "Sadhwani, Raunak"]
+[WhiteFideId "13515110"]
+[BlackFideId "35093487"]
+[WhiteElo "2560"]
+[BlackElo "2631"]
+[Result "1/2-1/2"]
+[Round "2.12"]
+[TimeControl "180+1"]
+[Date "2023.06.16"]
+[WhiteClock "0:01:12"]
+[BlackClock "0:01:08"]
+[Board "12"]
+
+1. d4 {[%clk 0:03:01]}  Nf6 {[%clk 0:03:00]} 2. c4 {[%clk 0:03:01]}  e6 {[%clk 0:03:00]} 3. Nf3 {[%clk 0:03:01]}  d5 {[%clk 0:03:01]} 4. Nc3 {[%clk 0:03:01]}  c5 {[%clk 0:03:01]} 5. e3 {[%clk 0:03:01]}  dxc4 {[%clk 0:02:56]} 6. Bxc4 {[%clk 0:03:00]}  a6 {[%clk 0:02:56]} 7. O-O {[%clk 0:02:59]}  b5 {[%clk 0:02:56]} 8. Be2 {[%clk 0:03:00]}  Bb7 {[%clk 0:02:55]} 9. dxc5 {[%clk 0:03:00]}  Bxc5 {[%clk 0:02:54]} 10. Qxd8+ {[%clk 0:02:57]}  Kxd8 {[%clk 0:02:55]} 11. Nd2 {[%clk 0:02:58]}  Ke7 {[%clk 0:02:50]} 12. Nb3 {[%clk 0:02:58]}  Nbd7 {[%clk 0:02:51]} 13. Nxc5 {[%clk 0:02:57]}  Nxc5 {[%clk 0:02:51]} 14. f3 {[%clk 0:02:56]}  b4 {[%clk 0:02:51]} 15. Nd1 {[%clk 0:02:55]}  a5 {[%clk 0:02:48]} 16. e4 {[%clk 0:02:55]}  Ba6 {[%clk 0:02:47]} 17. Bxa6 {[%clk 0:02:52]}  Rxa6 {[%clk 0:02:48]} 18. Nf2 {[%clk 0:02:52]}  Rc8 {[%clk 0:02:45]} 19. Be3 {[%clk 0:02:51]}  Rac6 {[%clk 0:02:39]} 20. Rfd1 {[%clk 0:02:38]}  Nfd7 {[%clk 0:02:39]} 21. Kf1 {[%clk 0:02:36]}  Na4 {[%clk 0:02:34]} 22. Rab1 {[%clk 0:02:35]}  Rc2 {[%clk 0:02:27]} 23. Nd3 {[%clk 0:02:33]}  Ndc5 {[%clk 0:02:22]} 24. Nxc5 {[%clk 0:02:10]}  Nxc5 {[%clk 0:02:23]} 25. Rd2 {[%clk 0:02:10]}  Na4 {[%clk 0:02:15]} 26. Ke2 {[%clk 0:02:04]}  R8c6 {[%clk 0:01:56]} 27. Kd3 {[%clk 0:01:51]}  Rxd2+ {[%clk 0:01:53]} 28. Kxd2 {[%clk 0:01:50]}  e5 {[%clk 0:01:49]} 29. Kd3 {[%clk 0:01:31]}  Ke6 {[%clk 0:01:45]} 30. Bd2 {[%clk 0:01:30]}  g6 {[%clk 0:01:39]} 31. b3 {[%clk 0:01:12]}  Nc3 {[%clk 0:01:08]} 1/2-1/2

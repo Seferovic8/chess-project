@@ -1,0 +1,18 @@
+[Event "February 6 Early 2024"]
+[Date "2024.02.06"]
+[Round "2"]
+[White "Yoo, Christopher Woojin"]
+[Black "Msellek, Ilyass"]
+[Result "1-0"]
+[Board "30"]
+[TimeControl "180+1"]
+[WhiteFideId "30909694"]
+[BlackFideId "675938"]
+[WhiteElo "2966"]
+[BlackElo "2637"]
+[WhiteTeam "USA"]
+[BlackTeam "MAR"]
+[WhiteClock "0:02:10"]
+[BlackClock "0:01:55"]
+
+1. d4 {[%clk 0:03:00]}  Nf6 {[%clk 0:02:59]} 2. Nf3 {[%clk 0:03:00]}  g6 {[%clk 0:02:57]} 3. c4 {[%clk 0:03:00]}  Bg7 {[%clk 0:02:52]} 4. g3 {[%clk 0:03:01]}  O-O {[%clk 0:02:53]} 5. Bg2 {[%clk 0:03:01]}  d6 {[%clk 0:02:54]} 6. O-O {[%clk 0:03:01]}  Nbd7 {[%clk 0:02:54]} 7. Nc3 {[%clk 0:03:01]}  e5 {[%clk 0:02:54]} 8. e4 {[%clk 0:03:02]}  exd4 {[%clk 0:02:51]} 9. Nxd4 {[%clk 0:03:02]}  Re8 {[%clk 0:02:52]} 10. Re1 {[%clk 0:02:58]}  Nc5 {[%clk 0:02:42]} 11. Bf4 {[%clk 0:02:49]}  Bg4 {[%clk 0:02:27]} 12. Qd2 {[%clk 0:02:38]}  Nh5 {[%clk 0:02:17]} 13. Be3 {[%clk 0:02:18]}  Ne6 {[%clk 0:02:13]} 14. h3 {[%clk 0:02:13]}  Bxd4 {[%clk 0:02:00]} 15. Bxd4 {[%clk 0:02:10]}  Nxd4 {[%clk 0:01:55]} 16. hxg4 {[%clk 0:02:10]} 1-0

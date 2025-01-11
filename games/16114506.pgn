@@ -1,0 +1,15 @@
+[Event "FIDE Online Chess Olympiad Division 1 Pool A 2021"]
+[White "Gavrilescu, David"]
+[Black "Tabatabaei, M. Amin"]
+[WhiteFideId "1227190"]
+[BlackFideId "12521213"]
+[WhiteElo "2406"]
+[BlackElo "2425"]
+[Result "1/2-1/2"]
+[Round "01"]
+[TimeControl "900+5"]
+[Date "2021.09.08"]
+[WhiteClock "0:07:32"]
+[BlackClock "0:07:24"]
+
+1. e4 {[%clk 0:14:57]}  c5 {[%clk 0:14:50]} 2. Nf3 {[%clk 0:14:59]}  d6 {[%clk 0:14:54]} 3. d4 {[%clk 0:15:01]}  cxd4 {[%clk 0:14:59]} 4. Nxd4 {[%clk 0:15:05]}  Nf6 {[%clk 0:15:04]} 5. Nc3 {[%clk 0:15:09]}  a6 {[%clk 0:15:08]} 6. g3 {[%clk 0:15:13]}  Bd7 {[%clk 0:14:39]} 7. Bg2 {[%clk 0:15:03]}  Nc6 {[%clk 0:14:43]} 8. O-O {[%clk 0:14:53]}  e6 {[%clk 0:14:42]} 9. h3 {[%clk 0:13:53]}  Be7 {[%clk 0:14:42]} 10. Be3 {[%clk 0:13:50]}  Qc7 {[%clk 0:14:45]} 11. a4 {[%clk 0:12:35]}  O-O {[%clk 0:14:47]} 12. Nxc6 {[%clk 0:11:15]}  Bxc6 {[%clk 0:14:50]} 13. a5 {[%clk 0:11:18]}  Nd7 {[%clk 0:14:35]} 14. Ne2 {[%clk 0:11:12]}  b5 {[%clk 0:14:06]} 15. axb6 {[%clk 0:11:10]}  Nxb6 {[%clk 0:14:10]} 16. b3 {[%clk 0:11:06]}  a5 {[%clk 0:12:26]} 17. Nd4 {[%clk 0:11:02]}  Bd7 {[%clk 0:12:30]} 18. c4 {[%clk 0:10:57]}  a4 {[%clk 0:11:59]} 19. Nb5 {[%clk 0:10:59]}  Bxb5 {[%clk 0:12:04]} 20. cxb5 {[%clk 0:11:04]}  a3 {[%clk 0:12:08]} 21. Qc1 {[%clk 0:10:34]}  Qxc1 {[%clk 0:10:58]} 22. Rfxc1 {[%clk 0:10:39]}  Rfb8 {[%clk 0:11:00]} 23. Rc6 {[%clk 0:09:30]}  Nd7 {[%clk 0:10:49]} 24. Ra6 {[%clk 0:09:29]}  Rd8 {[%clk 0:09:18]} 25. R1xa3 {[%clk 0:09:03]}  Rab8 {[%clk 0:09:21]} 26. b6 {[%clk 0:08:28]}  Kf8 {[%clk 0:09:03]} 27. R3a5 {[%clk 0:08:24]}  Rdc8 {[%clk 0:08:26]} 28. Rb5 {[%clk 0:08:21]}  Rb7 {[%clk 0:08:30]} 29. Ra7 {[%clk 0:07:55]}  Rcb8 {[%clk 0:08:34]} 30. Rxb7 {[%clk 0:07:52]}  Rxb7 {[%clk 0:08:39]} 31. Ra5 {[%clk 0:07:47]}  Ke8 {[%clk 0:07:52]} 32. Ra7 {[%clk 0:07:21]}  Rb8 {[%clk 0:07:54]} 33. b7 {[%clk 0:07:22]}  Kd8 {[%clk 0:07:30]} 34. Bf1 {[%clk 0:07:26]}  Kc7 {[%clk 0:07:21]} 35. Ba6 {[%clk 0:07:29]}  Nc5 {[%clk 0:07:19]} 36. Bxc5 {[%clk 0:07:29]}  dxc5 {[%clk 0:07:24]} 37. Ra8 {[%clk 0:07:32]} 1/2-1/2

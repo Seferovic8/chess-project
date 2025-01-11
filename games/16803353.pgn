@@ -1,0 +1,16 @@
+[Event "February 21 Late 2023"]
+[White "Gorshtein, Ido"]
+[Black "Melian, Juan Sebastian"]
+[WhiteFideId "2815532"]
+[BlackFideId "3706575"]
+[WhiteElo "2512"]
+[BlackElo "2291"]
+[Result "1-0"]
+[Round "10"]
+[TimeControl "180+2"]
+[Date "2023.02.21"]
+[WhiteClock "0:00:52"]
+[BlackClock "0:00:02"]
+[Board "28"]
+
+1. e4 {[%clk 0:03:00]}  e5 {[%clk 0:02:45]} 2. Nf3 {[%clk 0:02:59]}  Nc6 {[%clk 0:02:45]} 3. Bb5 {[%clk 0:03:00]}  a6 {[%clk 0:02:45]} 4. Ba4 {[%clk 0:02:59]}  Nf6 {[%clk 0:02:45]} 5. O-O {[%clk 0:02:58]}  Be7 {[%clk 0:02:32]} 6. Re1 {[%clk 0:02:56]}  d6 {[%clk 0:02:32]} 7. Bxc6+ {[%clk 0:02:54]}  bxc6 {[%clk 0:02:32]} 8. d4 {[%clk 0:02:54]}  exd4 {[%clk 0:02:32]} 9. Nxd4 {[%clk 0:02:54]}  Bd7 {[%clk 0:02:32]} 10. Qf3 {[%clk 0:02:53]}  O-O {[%clk 0:02:24]} 11. Nc3 {[%clk 0:02:52]}  Re8 {[%clk 0:02:20]} 12. b3 {[%clk 0:02:22]}  Ng4 {[%clk 0:02:18]} 13. Bb2 {[%clk 0:02:20]}  Bf6 {[%clk 0:02:15]} 14. Rad1 {[%clk 0:02:19]}  Ne5 {[%clk 0:02:04]} 15. Qe3 {[%clk 0:02:15]}  Ng6 {[%clk 0:01:56]} 16. h3 {[%clk 0:02:05]}  Qc8 {[%clk 0:01:28]} 17. Ba1 {[%clk 0:02:00]}  h6 {[%clk 0:01:19]} 18. Qf3 {[%clk 0:01:44]}  Nh4 {[%clk 0:01:14]} 19. Qg3 {[%clk 0:01:43]}  Ng6 {[%clk 0:01:09]} 20. Nf3 {[%clk 0:01:30]}  a5 {[%clk 0:00:58]} 21. Na4 {[%clk 0:01:29]}  Bxa1 {[%clk 0:00:56]} 22. Rxa1 {[%clk 0:01:30]}  c5 {[%clk 0:00:57]} 23. Nc3 {[%clk 0:01:30]}  c4 {[%clk 0:00:57]} 24. Nd4 {[%clk 0:01:28]}  cxb3 {[%clk 0:00:53]} 25. axb3 {[%clk 0:01:28]}  Qb7 {[%clk 0:00:50]} 26. Nf5 {[%clk 0:01:23]}  Re5 {[%clk 0:00:38]} 27. Ne3 {[%clk 0:01:15]}  Bc6 {[%clk 0:00:30]} 28. Nc4 {[%clk 0:01:14]}  Rc5 {[%clk 0:00:28]} 29. Na4 {[%clk 0:01:00]}  Rg5 {[%clk 0:00:23]} 30. Qe3 {[%clk 0:00:58]}  Re8 {[%clk 0:00:17]} 31. Nc3 {[%clk 0:00:54]}  f5 {[%clk 0:00:17]} 32. Nxa5 {[%clk 0:00:53]}  f4 {[%clk 0:00:02]} 33. Qd4 {[%clk 0:00:52]} 1-0

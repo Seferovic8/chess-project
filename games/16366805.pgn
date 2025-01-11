@@ -1,0 +1,15 @@
+[Event "FIDE World Blitz Chess Championship 2022"]
+[White "Gelfand, Boris"]
+[Black "Najer, Evgeniy"]
+[WhiteFideId "2805677"]
+[BlackFideId "4118987"]
+[WhiteElo "2667"]
+[BlackElo "2662"]
+[Result "1-0"]
+[Round "09"]
+[TimeControl "180+2"]
+[Date "2022.12.29"]
+[WhiteClock "0:01:22"]
+[BlackClock "0:00:04"]
+
+1. d4 {[%clk 0:03:02]}  Nf6 {[%clk 0:00:44]} 2. c4 {[%clk 0:03:03]}  e6 {[%clk 0:00:45]} 3. Nf3 {[%clk 0:03:04]}  d5 {[%clk 0:00:46]} 4. g3 {[%clk 0:03:04]}  Bb4+ {[%clk 0:00:46]} 5. Bd2 {[%clk 0:03:06]}  a5 {[%clk 0:00:47]} 6. Bg2 {[%clk 0:03:06]}  dxc4 {[%clk 0:00:47]} 7. a3 {[%clk 0:03:08]}  Be7 {[%clk 0:00:44]} 8. Qa4+ {[%clk 0:03:03]}  Bd7 {[%clk 0:00:43]} 9. Qxc4 {[%clk 0:03:03]}  Bc6 {[%clk 0:00:44]} 10. O-O {[%clk 0:02:54]}  O-O {[%clk 0:00:44]} 11. Nc3 {[%clk 0:02:53]}  Nbd7 {[%clk 0:00:42]} 12. Qd3 {[%clk 0:02:40]}  a4 {[%clk 0:00:40]} 13. Rfd1 {[%clk 0:02:29]}  Qb8 {[%clk 0:00:28]} 14. e4 {[%clk 0:02:01]}  Rd8 {[%clk 0:00:30]} 15. Qe2 {[%clk 0:01:50]}  Nb6 {[%clk 0:00:29]} 16. Bf4 {[%clk 0:01:45]}  Ra5 {[%clk 0:00:22]} 17. Rac1 {[%clk 0:01:41]}  Nh5 {[%clk 0:00:18]} 18. Be3 {[%clk 0:01:39]}  Nf6 {[%clk 0:00:18]} 19. d5 {[%clk 0:01:24]}  exd5 {[%clk 0:00:19]} 20. Bxb6 {[%clk 0:01:25]}  cxb6 {[%clk 0:00:09]} 21. exd5 {[%clk 0:01:27]}  Nxd5 {[%clk 0:00:04]} 22. Nxd5 {[%clk 0:01:22]} 1-0

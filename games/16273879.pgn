@@ -1,0 +1,15 @@
+[Event "Russian Chess Championship Blitz 2022"]
+[White "Grachev, Boris"]
+[Black "Derjabin, Ilja"]
+[WhiteFideId "4129199"]
+[BlackFideId "14104768"]
+[WhiteElo "2565"]
+[BlackElo "2341"]
+[Result "1-0"]
+[Round "05"]
+[TimeControl "180+2"]
+[Date "2022.10.14"]
+[WhiteClock "0:00:34"]
+[BlackClock "0:00:10"]
+
+1. d4 {[%clk 0:03:03]}  Nf6 {[%clk 0:03:03]} 2. Nf3 {[%clk 0:03:04]}  d6 {[%clk 0:03:03]} 3. h3 {[%clk 0:02:58]}  h6 {[%clk 0:02:57]} 4. g3 {[%clk 0:02:49]}  Bf5 {[%clk 0:02:53]} 5. Bg2 {[%clk 0:02:49]}  c6 {[%clk 0:02:52]} 6. c4 {[%clk 0:02:46]}  g5 {[%clk 0:02:46]} 7. h4 {[%clk 0:02:34]}  g4 {[%clk 0:02:41]} 8. Nfd2 {[%clk 0:02:35]}  e5 {[%clk 0:02:22]} 9. dxe5 {[%clk 0:02:26]}  dxe5 {[%clk 0:02:23]} 10. O-O {[%clk 0:02:21]}  Nbd7 {[%clk 0:02:14]} 11. Nc3 {[%clk 0:02:21]}  Nc5 {[%clk 0:01:59]} 12. b4 {[%clk 0:02:14]}  Ne6 {[%clk 0:01:59]} 13. b5 {[%clk 0:02:12]}  Rc8 {[%clk 0:01:55]} 14. bxc6 {[%clk 0:01:59]}  bxc6 {[%clk 0:01:56]} 15. Nde4 {[%clk 0:01:38]}  Nxe4 {[%clk 0:01:50]} 16. Nxe4 {[%clk 0:01:26]}  Qxd1 {[%clk 0:01:37]} 17. Rxd1 {[%clk 0:01:27]}  Be7 {[%clk 0:01:29]} 18. Be3 {[%clk 0:01:27]}  Bxe4 {[%clk 0:01:29]} 19. Bxe4 {[%clk 0:01:02]}  Nd4 {[%clk 0:01:20]} 20. Bxd4 {[%clk 0:00:59]}  exd4 {[%clk 0:01:22]} 21. Bf5 {[%clk 0:00:56]}  Rb8 {[%clk 0:01:15]} 22. Rxd4 {[%clk 0:00:43]}  O-O {[%clk 0:00:55]} 23. Rxg4+ {[%clk 0:00:42]}  Kh8 {[%clk 0:00:57]} 24. Rd1 {[%clk 0:00:42]}  Rb2 {[%clk 0:00:44]} 25. Re4 {[%clk 0:00:42]}  Bc5 {[%clk 0:00:42]} 26. Rd7 {[%clk 0:00:41]}  a5 {[%clk 0:00:23]} 27. Rc7 {[%clk 0:00:39]}  Rxa2 {[%clk 0:00:17]} 28. Rxc6 {[%clk 0:00:40]}  Bb4 {[%clk 0:00:17]} 29. Rg4 {[%clk 0:00:34]}  f6 {[%clk 0:00:10]} 30. Rc7 {[%clk 0:00:34]} 1-0

@@ -1,0 +1,16 @@
+[Event "Titled Tuesday Blitz July 25 Late 2023"]
+[White "Paravyan, David"]
+[Black "Zhigalko, Sergei"]
+[WhiteFideId "4194985"]
+[BlackFideId "13502956"]
+[WhiteElo "3015"]
+[BlackElo "2878"]
+[Result "0-1"]
+[Round "7"]
+[TimeControl "180+2"]
+[Date "2023.07.25"]
+[WhiteClock "0:00:15"]
+[BlackClock "0:00:04"]
+[Board "12"]
+
+1. e4 {[%clk 0:02:59]}  c5 {[%clk 0:03:00]} 2. Nf3 {[%clk 0:02:55]}  Nc6 {[%clk 0:03:00]} 3. Bb5 {[%clk 0:02:55]}  Qc7 {[%clk 0:02:54]} 4. c3 {[%clk 0:02:54]}  a6 {[%clk 0:02:35]} 5. Bxc6 {[%clk 0:02:48]}  dxc6 {[%clk 0:02:36]} 6. O-O {[%clk 0:02:47]}  Bg4 {[%clk 0:02:35]} 7. h3 {[%clk 0:02:47]}  Bh5 {[%clk 0:02:35]} 8. d4 {[%clk 0:02:46]}  Rd8 {[%clk 0:02:28]} 9. Be3 {[%clk 0:02:45]}  e5 {[%clk 0:02:16]} 10. g4 {[%clk 0:02:44]}  cxd4 {[%clk 0:02:13]} 11. cxd4 {[%clk 0:02:44]}  exd4 {[%clk 0:02:14]} 12. Bg5 {[%clk 0:02:39]}  f6 {[%clk 0:02:08]} 13. gxh5 {[%clk 0:02:39]}  fxg5 {[%clk 0:02:09]} 14. Nxg5 {[%clk 0:02:40]}  Qe7 {[%clk 0:01:44]} 15. f4 {[%clk 0:02:35]}  Nf6 {[%clk 0:01:30]} 16. Nd2 {[%clk 0:02:34]}  h6 {[%clk 0:01:18]} 17. Ngf3 {[%clk 0:02:30]}  Nxh5 {[%clk 0:01:18]} 18. Ne5 {[%clk 0:02:24]}  Nxf4 {[%clk 0:01:18]} 19. Rxf4 {[%clk 0:02:12]}  Qxe5 {[%clk 0:01:18]} 20. Qf3 {[%clk 0:01:43]}  Bd6 {[%clk 0:01:13]} 21. Rf1 {[%clk 0:01:43]}  Qg5+ {[%clk 0:00:32]} 22. Rg4 {[%clk 0:01:42]}  Qe3+ {[%clk 0:00:32]} 23. Kg2 {[%clk 0:01:33]}  Rf8 {[%clk 0:00:21]} 24. Qxe3 {[%clk 0:01:24]}  dxe3 {[%clk 0:00:22]} 25. Nc4 {[%clk 0:01:24]}  Bc5 {[%clk 0:00:12]} 26. Rxg7 {[%clk 0:01:22]}  b5 {[%clk 0:00:09]} 27. b4 {[%clk 0:00:17]}  Bd4 {[%clk 0:00:08]} 28. Rxf8+ {[%clk 0:00:16]}  Kxf8 {[%clk 0:00:08]} 29. Rc7 {[%clk 0:00:17]}  bxc4 {[%clk 0:00:08]} 30. Rxc6 {[%clk 0:00:15]}  e2 {[%clk 0:00:04]} 0-1

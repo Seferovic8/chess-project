@@ -1,0 +1,16 @@
+[Event "February 21 Late 2023"]
+[White "Gorshtein, Ido"]
+[Black "Naroditsky, Daniel"]
+[WhiteFideId "2815532"]
+[BlackFideId "2026961"]
+[WhiteElo "2512"]
+[BlackElo "2619"]
+[Result "0-1"]
+[Round "3"]
+[TimeControl "180+2"]
+[Date "2023.02.21"]
+[WhiteClock "0:00:20"]
+[BlackClock "0:00:40"]
+[Board "2"]
+
+1. b3 {[%clk 0:03:00]}  d5 {[%clk 0:02:57]} 2. Bb2 {[%clk 0:03:01]}  Bf5 {[%clk 0:02:54]} 3. e3 {[%clk 0:02:59]}  e6 {[%clk 0:02:54]} 4. f4 {[%clk 0:03:00]}  Nf6 {[%clk 0:02:51]} 5. Nf3 {[%clk 0:03:00]}  Bd6 {[%clk 0:02:44]} 6. Be2 {[%clk 0:02:59]}  h6 {[%clk 0:02:41]} 7. O-O {[%clk 0:02:58]}  Nbd7 {[%clk 0:02:41]} 8. Ne5 {[%clk 0:02:58]}  Qe7 {[%clk 0:02:34]} 9. d3 {[%clk 0:02:55]}  Bc5 {[%clk 0:02:32]} 10. d4 {[%clk 0:02:40]}  Bd6 {[%clk 0:02:32]} 11. Nd2 {[%clk 0:02:40]}  Ne4 {[%clk 0:02:27]} 12. c4 {[%clk 0:02:36]}  Nxd2 {[%clk 0:02:23]} 13. Qxd2 {[%clk 0:02:36]}  c6 {[%clk 0:02:22]} 14. Bd3 {[%clk 0:02:30]}  Bxd3 {[%clk 0:02:16]} 15. Qxd3 {[%clk 0:02:30]}  Nf6 {[%clk 0:02:16]} 16. f5 {[%clk 0:02:25]}  O-O {[%clk 0:01:54]} 17. Rf3 {[%clk 0:02:18]}  Ne4 {[%clk 0:01:50]} 18. Raf1 {[%clk 0:02:17]}  Bxe5 {[%clk 0:01:35]} 19. dxe5 {[%clk 0:02:15]}  exf5 {[%clk 0:01:36]} 20. Rxf5 {[%clk 0:02:12]}  Rad8 {[%clk 0:01:28]} 21. cxd5 {[%clk 0:02:05]}  cxd5 {[%clk 0:01:29]} 22. Qd4 {[%clk 0:02:00]}  b6 {[%clk 0:01:25]} 23. Qd1 {[%clk 0:01:42]}  Rd7 {[%clk 0:01:14]} 24. Bd4 {[%clk 0:01:41]}  Qe6 {[%clk 0:01:13]} 25. R5f3 {[%clk 0:01:29]}  Rc8 {[%clk 0:01:09]} 26. Qd3 {[%clk 0:01:28]}  Rdc7 {[%clk 0:01:07]} 27. h3 {[%clk 0:01:27]}  Qg6 {[%clk 0:01:01]} 28. e6 {[%clk 0:00:41]}  fxe6 {[%clk 0:00:55]} 29. Kh2 {[%clk 0:00:31]}  Rc2 {[%clk 0:00:44]} 30. Rg1 {[%clk 0:00:24]}  Rd2 {[%clk 0:00:43]} 31. Qa6 {[%clk 0:00:20]}  Rcc2 {[%clk 0:00:40]} 0-1

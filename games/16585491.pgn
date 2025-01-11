@@ -1,0 +1,16 @@
+[Event "Romanian Grand Prix | Stage 4 | Arad"]
+[White "Kozak, Adam"]
+[Black "Korcsek, Alexandru-David"]
+[WhiteFideId "753246"]
+[BlackFideId "1250019"]
+[WhiteElo "2574"]
+[BlackElo "1935"]
+[Result "1-0"]
+[Round "1"]
+[TimeControl "40/5400+30:900+30"]
+[Date "2023.08.07"]
+[WhiteClock "0:03:39"]
+[BlackClock "0:00:35"]
+[Board "7"]
+
+1. d4 {[%clk 1:30:57]}  d5 {[%clk 1:30:48]} 2. c4 {[%clk 1:31:18]}  e6 {[%clk 1:31:13]} 3. Nc3 {[%clk 1:30:50]}  c5 {[%clk 1:31:33]} 4. e3 {[%clk 1:28:35]}  Nf6 {[%clk 1:31:43]} 5. cxd5 {[%clk 1:22:11]}  exd5 {[%clk 1:31:59]} 6. Nf3 {[%clk 1:21:01]}  Nc6 {[%clk 1:32:05]} 7. Bb5 {[%clk 1:15:10]}  Bd6 {[%clk 1:32:22]} 8. h3 {[%clk 1:06:31]}  O-O {[%clk 1:30:35]} 9. dxc5 {[%clk 1:04:35]}  Bxc5 {[%clk 1:30:35]} 10. O-O {[%clk 1:04:47]}  Be6 {[%clk 1:22:18]} 11. b3 {[%clk 0:58:42]}  Qe7 {[%clk 1:17:14]} 12. Bb2 {[%clk 0:57:30]}  Rfd8 {[%clk 1:13:52]} 13. Ne2 {[%clk 0:47:51]}  Rac8 {[%clk 1:04:06]} 14. Rc1 {[%clk 0:45:14]}  Ne4 {[%clk 0:56:45]} 15. Bxc6 {[%clk 0:40:22]}  bxc6 {[%clk 0:55:33]} 16. Ned4 {[%clk 0:30:01]}  Qd6 {[%clk 0:42:42]} 17. Nxe6 {[%clk 0:24:01]}  fxe6 {[%clk 0:39:29]} 18. Qe2 {[%clk 0:16:40]}  Rf8 {[%clk 0:35:16]} 19. Be5 {[%clk 0:12:05]}  Qe7 {[%clk 0:33:35]} 20. Nd4 {[%clk 0:07:34]}  Bxd4 {[%clk 0:23:44]} 21. exd4 {[%clk 0:07:30]}  c5 {[%clk 0:13:04]} 22. f3 {[%clk 0:06:10]}  Nf6 {[%clk 0:10:30]} 23. Qa6 {[%clk 0:06:19]}  Rfd8 {[%clk 0:09:28]} 24. Kh2 {[%clk 0:05:45]}  c4 {[%clk 0:05:22]} 25. bxc4 {[%clk 0:05:49]}  dxc4 {[%clk 0:05:36]} 26. Rxc4 {[%clk 0:06:02]}  Rxc4 {[%clk 0:06:00]} 27. Qxc4 {[%clk 0:06:28]}  Nd5 {[%clk 0:06:13]} 28. Rb1 {[%clk 0:05:57]}  h6 {[%clk 0:01:32]} 29. Qa6 {[%clk 0:05:23]}  Nf6 {[%clk 0:00:34]} 30. Rb7 {[%clk 0:04:27]}  Rd7 {[%clk 0:01:00]} 31. Rb8+ {[%clk 0:04:50]}  Kf7 {[%clk 0:01:24]} 32. Qc8 {[%clk 0:04:13]}  Kg6 {[%clk 0:00:41]} 33. Qc6 {[%clk 0:03:14]}  Kf7 {[%clk 0:00:35]} 34. a4 {[%clk 0:03:39]} 1-0

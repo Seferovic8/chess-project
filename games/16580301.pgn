@@ -1,0 +1,16 @@
+[Event "Creon International Open 2023"]
+[White "Iniyan, P"]
+[Black "Eugene, Floryan"]
+[WhiteFideId "25002767"]
+[BlackFideId "20694784"]
+[WhiteElo "2525"]
+[BlackElo "2384"]
+[Result "1-0"]
+[Round "4"]
+[TimeControl "5400+30"]
+[Date "2023.08.02"]
+[WhiteClock "0:58:12"]
+[BlackClock "0:07:38"]
+[Board "1"]
+
+1. d4 {[%clk 1:24:32]}  d5 {[%clk 1:30:54]} 2. c4 {[%clk 1:24:53]}  e6 {[%clk 1:31:20]} 3. Nc3 {[%clk 1:25:20]}  c6 {[%clk 1:31:46]} 4. e4 {[%clk 1:25:31]}  dxe4 {[%clk 1:32:10]} 5. Nxe4 {[%clk 1:25:56]}  Bb4+ {[%clk 1:32:34]} 6. Bd2 {[%clk 1:26:08]}  Qxd4 {[%clk 1:32:51]} 7. Bxb4 {[%clk 1:26:29]}  Qxe4+ {[%clk 1:33:17]} 8. Be2 {[%clk 1:26:43]}  Na6 {[%clk 1:33:36]} 9. Ba5 {[%clk 1:25:33]}  b6 {[%clk 1:33:13]} 10. Bc3 {[%clk 1:09:18]}  Bb7 {[%clk 1:13:06]} 11. Nf3 {[%clk 1:06:24]}  Rd8 {[%clk 1:02:37]} 12. Qc1 {[%clk 1:06:05]}  f6 {[%clk 0:58:53]} 13. Ng5 {[%clk 1:06:05]}  Qf5 {[%clk 0:26:30]} 14. g4 {[%clk 1:06:00]}  Qg6 {[%clk 0:26:46]} 15. Nxe6 {[%clk 1:05:54]}  Rd7 {[%clk 0:21:33]} 16. Qe3 {[%clk 1:06:03]}  Ne7 {[%clk 0:21:14]} 17. g5 {[%clk 1:05:21]}  h5 {[%clk 0:19:54]} 18. Nxg7+ {[%clk 1:04:38]}  Qxg7 {[%clk 0:20:11]} 19. gxf6 {[%clk 1:04:57]}  Qh6 {[%clk 0:18:31]} 20. Qe5 {[%clk 1:03:42]}  Rh7 {[%clk 0:15:06]} 21. Rg1 {[%clk 1:03:14]}  Kf8 {[%clk 0:13:41]} 22. fxe7+ {[%clk 1:02:14]}  Rdxe7 {[%clk 0:11:02]} 23. Qg3 {[%clk 1:01:15]}  Ke8 {[%clk 0:08:46]} 24. Rd1 {[%clk 1:00:13]}  Rhf7 {[%clk 0:09:13]} 25. Qd3 {[%clk 0:58:17]}  Rf8 {[%clk 0:07:38]} 26. Rg6 {[%clk 0:58:12]} 1-0

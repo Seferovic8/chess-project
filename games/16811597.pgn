@@ -1,0 +1,18 @@
+[Event "November 21 Early 2023"]
+[Date "2023.11.21"]
+[Round "1"]
+[White "Lazavik, Denis"]
+[Black "Ongut, Tamas Gunes"]
+[Result "1-0"]
+[Board "9"]
+[TimeControl "180+1"]
+[WhiteFideId "13515110"]
+[BlackFideId "770280"]
+[WhiteElo "2556"]
+[BlackElo "2148"]
+[WhiteTeam "BLR"]
+[BlackTeam "HUN"]
+[WhiteClock "0:00:51"]
+[BlackClock "0:00:04"]
+
+1. d4 {[%clk 0:03:00]}  Nf6 {[%clk 0:02:59]} 2. c4 {[%clk 0:03:01]}  g6 {[%clk 0:02:58]} 3. g3 {[%clk 0:03:00]}  Bg7 {[%clk 0:02:58]} 4. Bg2 {[%clk 0:03:01]}  O-O {[%clk 0:02:58]} 5. Nc3 {[%clk 0:03:02]}  d6 {[%clk 0:02:58]} 6. Nf3 {[%clk 0:03:02]}  c5 {[%clk 0:02:57]} 7. dxc5 {[%clk 0:02:50]}  dxc5 {[%clk 0:02:57]} 8. Qxd8 {[%clk 0:02:50]}  Rxd8 {[%clk 0:02:57]} 9. Be3 {[%clk 0:02:50]}  Nc6 {[%clk 0:02:30]} 10. Bxc5 {[%clk 0:02:49]}  b6 {[%clk 0:02:28]} 11. Be3 {[%clk 0:02:42]}  Nb4 {[%clk 0:02:27]} 12. Rc1 {[%clk 0:02:37]}  Bb7 {[%clk 0:01:30]} 13. a3 {[%clk 0:02:35]}  Na6 {[%clk 0:01:28]} 14. O-O {[%clk 0:02:33]}  Nc5 {[%clk 0:01:21]} 15. b4 {[%clk 0:02:23]}  Nce4 {[%clk 0:01:16]} 16. Nb5 {[%clk 0:02:04]}  Ng4 {[%clk 0:01:09]} 17. Bd4 {[%clk 0:02:02]}  e5 {[%clk 0:01:07]} 18. Bb2 {[%clk 0:01:59]}  a6 {[%clk 0:01:03]} 19. Nc3 {[%clk 0:01:39]}  Nd6 {[%clk 0:00:53]} 20. Na4 {[%clk 0:01:36]}  e4 {[%clk 0:00:46]} 21. Bxg7 {[%clk 0:01:25]}  Kxg7 {[%clk 0:00:26]} 22. Nd2 {[%clk 0:01:24]}  b5 {[%clk 0:00:25]} 23. Nc5 {[%clk 0:01:14]}  e3 {[%clk 0:00:19]} 24. Nxb7 {[%clk 0:00:55]}  exd2 {[%clk 0:00:16]} 25. Nxd6 {[%clk 0:00:53]}  dxc1=Q {[%clk 0:00:12]} 26. Rxc1 {[%clk 0:00:54]}  Rxd6 {[%clk 0:00:09]} 27. Bxa8 {[%clk 0:00:53]}  bxc4 {[%clk 0:00:09]} 28. Rxc4 {[%clk 0:00:52]}  Ne5 {[%clk 0:00:09]} 29. Rc5 {[%clk 0:00:51]}  Nd7 {[%clk 0:00:04]} 30. Rd5 {[%clk 0:00:51]} 1-0

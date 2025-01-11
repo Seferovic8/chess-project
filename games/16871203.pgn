@@ -1,0 +1,18 @@
+[Event "FIDE World Rapid Chess Championship 2023"]
+[Date "2023.12.28"]
+[Round "12"]
+[White "Aravindh, Chithambaram VR."]
+[Black "Nogerbek, Kazybek"]
+[Result "1-0"]
+[Board "59"]
+[TimeControl "15+10"]
+[WhiteFideId "5072786"]
+[BlackFideId "13710427"]
+[WhiteElo "2573"]
+[BlackElo "2446"]
+[WhiteTeam "IND"]
+[BlackTeam "KAZ"]
+[WhiteClock "0:03:28"]
+[BlackClock "0:00:41"]
+
+1. d4 {[%clk 0:15:17]}  Nf6 {[%clk 0:15:17]} 2. Nf3 {[%clk 0:15:24]}  d5 {[%clk 0:15:21]} 3. c3 {[%clk 0:15:32]}  c6 {[%clk 0:14:00]} 4. Bf4 {[%clk 0:15:39]}  Bf5 {[%clk 0:13:57]} 5. e3 {[%clk 0:15:45]}  e6 {[%clk 0:14:04]} 6. Nbd2 {[%clk 0:15:49]}  Nbd7 {[%clk 0:13:47]} 7. Be2 {[%clk 0:15:32]}  h6 {[%clk 0:13:42]} 8. h3 {[%clk 0:15:40]}  Be7 {[%clk 0:13:50]} 9. O-O {[%clk 0:15:42]}  O-O {[%clk 0:13:56]} 10. a4 {[%clk 0:14:25]}  a5 {[%clk 0:13:47]} 11. Ne1 {[%clk 0:14:29]}  Qb6 {[%clk 0:13:25]} 12. Bd3 {[%clk 0:14:09]}  Bxd3 {[%clk 0:12:38]} 13. Nxd3 {[%clk 0:14:16]}  c5 {[%clk 0:12:46]} 14. Rb1 {[%clk 0:13:44]}  Bd6 {[%clk 0:12:25]} 15. Nf3 {[%clk 0:13:34]}  Bxf4 {[%clk 0:12:23]} 16. exf4 {[%clk 0:13:23]}  Ne4 {[%clk 0:11:54]} 17. g3 {[%clk 0:13:21]}  Rfc8 {[%clk 0:11:36]} 18. Kg2 {[%clk 0:13:04]}  Rab8 {[%clk 0:11:22]} 19. Re1 {[%clk 0:12:49]}  Ndf6 {[%clk 0:10:52]} 20. Nde5 {[%clk 0:12:05]}  Nd6 {[%clk 0:10:15]} 21. g4 {[%clk 0:11:46]}  Qc7 {[%clk 0:09:38]} 22. dxc5 {[%clk 0:11:39]}  Qxc5 {[%clk 0:09:38]} 23. Nd4 {[%clk 0:11:47]}  Qc7 {[%clk 0:08:29]} 24. h4 {[%clk 0:11:07]}  Nd7 {[%clk 0:07:50]} 25. Nd3 {[%clk 0:09:20]}  b5 {[%clk 0:05:23]} 26. g5 {[%clk 0:08:55]}  Qd8 {[%clk 0:03:14]} 27. Qg4 {[%clk 0:06:42]}  Qf8 {[%clk 0:02:05]} 28. Nxe6 {[%clk 0:06:14]}  fxe6 {[%clk 0:02:12]} 29. Qxe6+ {[%clk 0:06:21]}  Qf7 {[%clk 0:01:32]} 30. Qxd6 {[%clk 0:06:28]}  Rb6 {[%clk 0:01:41]} 31. Qe7 {[%clk 0:05:46]}  Qf5 {[%clk 0:01:49]} 32. Qe3 {[%clk 0:04:51]}  bxa4 {[%clk 0:01:40]} 33. Ra1 {[%clk 0:04:44]}  Rc4 {[%clk 0:01:35]} 34. Qh3 {[%clk 0:04:39]}  Qxh3+ {[%clk 0:01:34]} 35. Kxh3 {[%clk 0:04:47]}  d4 {[%clk 0:01:43]} 36. Re4 {[%clk 0:04:35]}  Rb3 {[%clk 0:01:18]} 37. Kg4 {[%clk 0:03:59]}  Nb6 {[%clk 0:00:39]} 38. Re8+ {[%clk 0:03:38]}  Kf7 {[%clk 0:00:48]} 39. Rae1 {[%clk 0:03:45]}  Nc8 {[%clk 0:00:41]} 40. R1e6 {[%clk 0:03:28]} 1-0

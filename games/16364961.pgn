@@ -1,0 +1,15 @@
+[Event "FIDE World Blitz Chess Championship 2022"]
+[White "Lazavik, Denis"]
+[Black "Harikrishna, Pentala"]
+[WhiteFideId "13515110"]
+[BlackFideId "5007003"]
+[WhiteElo "2537"]
+[BlackElo "2705"]
+[Result "1-0"]
+[Round "02"]
+[TimeControl "180+2"]
+[Date "2022.12.29"]
+[WhiteClock "0:00:00"]
+[BlackClock "0:00:14"]
+
+1. d4 {[%clk 0:03:01]}  Nf6 {[%clk 0:03:03]} 2. c4 {[%clk 0:03:01]}  e6 {[%clk 0:03:04]} 3. Nf3 {[%clk 0:03:01]}  d5 {[%clk 0:03:05]} 4. g3 {[%clk 0:03:00]}  Be7 {[%clk 0:03:06]} 5. Bg2 {[%clk 0:03:01]}  O-O {[%clk 0:03:07]} 6. O-O {[%clk 0:03:00]}  dxc4 {[%clk 0:03:07]} 7. Qc2 {[%clk 0:03:00]}  a6 {[%clk 0:03:09]} 8. a4 {[%clk 0:03:00]}  Bd7 {[%clk 0:03:09]} 9. Qxc4 {[%clk 0:02:59]}  Bc6 {[%clk 0:03:10]} 10. Bg5 {[%clk 0:02:58]}  Bd5 {[%clk 0:03:11]} 11. Qc2 {[%clk 0:02:57]}  Be4 {[%clk 0:03:12]} 12. Qc1 {[%clk 0:02:55]}  Nc6 {[%clk 0:03:11]} 13. Nbd2 {[%clk 0:02:52]}  Nxd4 {[%clk 0:02:42]} 14. Nxd4 {[%clk 0:02:49]}  Bxg2 {[%clk 0:02:42]} 15. Nxe6 {[%clk 0:02:48]}  Qd5 {[%clk 0:01:26]} 16. Bxf6 {[%clk 0:02:24]}  Bxf1 {[%clk 0:01:26]} 17. Nf4 {[%clk 0:02:23]}  Qd7 {[%clk 0:00:58]} 18. Bxe7 {[%clk 0:02:20]}  Rfe8 {[%clk 0:00:59]} 19. Nxf1 {[%clk 0:02:10]}  Rxe7 {[%clk 0:00:59]} 20. Qc2 {[%clk 0:02:06]}  Rd8 {[%clk 0:00:58]} 21. Ne3 {[%clk 0:02:03]}  Qe8 {[%clk 0:00:31]} 22. Qc3 {[%clk 0:02:00]}  Red7 {[%clk 0:00:21]} 23. h4 {[%clk 0:01:53]}  Qe4 {[%clk 0:00:20]} 24. Nd3 {[%clk 0:01:34]}  b6 {[%clk 0:00:19]} 25. a5 {[%clk 0:01:33]}  Qb7 {[%clk 0:00:13]} 26. Nf5 {[%clk 0:01:27]}  f6 {[%clk 0:00:14]} 27. Qc4+ {[%clk 0:00:00]} 1-0

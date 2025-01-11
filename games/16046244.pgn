@@ -1,0 +1,15 @@
+[Event "European FIDE World Cup Qualifier 2021"]
+[White "Deac, Bogdan-Daniel"]
+[Black "Babujian, Levon"]
+[WhiteFideId "1226380"]
+[BlackFideId "13301993"]
+[WhiteElo "2627"]
+[BlackElo "2465"]
+[Result "1-0"]
+[Round "01-01"]
+[TimeControl "7200+30"]
+[Date "Mon May 24 2021"]
+[WhiteClock "0:37:49"]
+[BlackClock "0:48:52"]
+
+1. Nf3 {[%clk 0:00:00]}  Nf6 {[%clk 2:00:18]} 2. c4 {[%clk 2:00:47]}  b6 {[%clk 1:59:58]} 3. d4 {[%clk 2:00:39]}  e6 {[%clk 2:00:22]} 4. a3 {[%clk 2:00:32]}  Bb7 {[%clk 1:59:50]} 5. Nc3 {[%clk 2:00:29]}  d5 {[%clk 2:00:15]} 6. Bg5 {[%clk 1:58:57]}  Nbd7 {[%clk 1:58:53]} 7. cxd5 {[%clk 1:55:02]}  exd5 {[%clk 1:59:16]} 8. Qa4 {[%clk 1:53:30]}  Be7 {[%clk 1:54:19]} 9. Bxf6 {[%clk 1:37:04]}  Bxf6 {[%clk 1:54:15]} 10. g3 {[%clk 1:46:16]}  O-O {[%clk 1:54:15]} 11. Bh3 {[%clk 1:46:43]}  Nb8 {[%clk 1:50:57]} 12. O-O {[%clk 1:42:14]}  Re8 {[%clk 1:49:33]} 13. Rad1 {[%clk 1:42:03]}  a5 {[%clk 1:49:22]} 14. Rfe1 {[%clk 1:42:25]}  g6 {[%clk 1:47:14]} 15. e4 {[%clk 1:16:05]}  dxe4 {[%clk 1:46:32]} 16. Ne5 {[%clk 1:28:40]}  Bg7 {[%clk 1:41:47]} 17. Nxe4 {[%clk 0:03:50]}  f6 {[%clk 1:27:22]} 18. Nc5 {[%clk 0:45:56]}  fxe5 {[%clk 0:57:56]} 19. Nxb7 {[%clk 0:17:33]}  Qe7 {[%clk 0:58:21]} 20. d5 {[%clk 0:17:33]}  Rf8 {[%clk 0:57:18]} 21. d6 {[%clk 0:41:10]}  cxd6 {[%clk 0:57:09]} 22. Nxd6 {[%clk 0:44:12]}  Kh8 {[%clk 0:57:28]} 23. Qb5 {[%clk 0:41:03]}  Na6 {[%clk 0:55:14]} 24. Qxb6 {[%clk 0:33:05]}  Rf6 {[%clk 0:50:30]} 25. Bg2 {[%clk 0:37:17]}  Ra7 {[%clk 0:50:23]} 26. Bb7 {[%clk 0:36:10]}  Rxd6 {[%clk 0:48:03]} 27. Rxd6 {[%clk 0:34:50]}  Rxb7 {[%clk 0:48:19]} 28. Qd8+ {[%clk 0:36:55]}  Bf8 {[%clk 0:48:27]} 29. Qxe7 {[%clk 0:37:49]}  Bxe7 {[%clk 0:48:52]} 30. Rxa6 {[%clk 0:37:49]} 1-0

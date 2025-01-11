@@ -1,0 +1,16 @@
+[Event "Pool High"]
+[White "Bacrot, Etienne"]
+[Black "Vachier-Lagrave, Maxime"]
+[WhiteFideId "605506"]
+[BlackFideId "623539"]
+[WhiteElo "2691"]
+[BlackElo "2767"]
+[Result "1/2-1/2"]
+[Round "4"]
+[TimeControl "40/5400+30:1800+30"]
+[Date "2023.06.11"]
+[WhiteClock "1:15:35"]
+[BlackClock "1:16:47"]
+[Board "2"]
+
+1. e4 {[%clk 1:27:21]}  c5 {[%clk 1:30:49]} 2. Nf3 {[%clk 1:27:43]}  d6 {[%clk 1:31:15]} 3. Bb5+ {[%clk 1:27:58]}  Nd7 {[%clk 1:31:13]} 4. d4 {[%clk 1:26:00]}  cxd4 {[%clk 1:31:31]} 5. Qxd4 {[%clk 1:26:24]}  a6 {[%clk 1:31:52]} 6. Bxd7+ {[%clk 1:26:45]}  Bxd7 {[%clk 1:32:17]} 7. O-O {[%clk 1:27:06]}  Rc8 {[%clk 1:30:08]} 8. c4 {[%clk 1:26:39]}  e5 {[%clk 1:30:18]} 9. Qd3 {[%clk 1:27:02]}  b5 {[%clk 1:30:37]} 10. b3 {[%clk 1:24:31]}  bxc4 {[%clk 1:28:10]} 11. bxc4 {[%clk 1:24:53]}  Be6 {[%clk 1:28:34]} 12. Nfd2 {[%clk 1:21:25]}  Qc7 {[%clk 1:26:54]} 13. Ba3 {[%clk 1:21:42]}  Bxc4 {[%clk 1:23:25]} 14. Nxc4 {[%clk 1:20:24]}  Qxc4 {[%clk 1:23:50]} 15. Qe3 {[%clk 1:20:31]}  Qd4 {[%clk 1:19:22]} 16. Qxd4 {[%clk 1:20:28]}  exd4 {[%clk 1:19:45]} 17. Nd2 {[%clk 1:17:45]}  Nf6 {[%clk 1:18:38]} 18. Rfc1 {[%clk 1:17:00]}  Rxc1+ {[%clk 1:18:32]} 19. Rxc1 {[%clk 1:17:25]}  Kd7 {[%clk 1:18:52]} 20. Rb1 {[%clk 1:15:17]}  Kc7 {[%clk 1:16:48]} 21. Rc1+ {[%clk 1:15:12]}  Kd7 {[%clk 1:16:47]} 22. Rb1 {[%clk 1:15:35]} 1/2-1/2

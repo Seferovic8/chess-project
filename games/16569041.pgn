@@ -1,0 +1,16 @@
+[Event "Czech Open 2023"]
+[White "Noe, Christopher"]
+[Black "Lalit Babu M R"]
+[WhiteFideId "24692018"]
+[BlackFideId "5024595"]
+[WhiteElo "2527"]
+[BlackElo "2537"]
+[Result "1/2-1/2"]
+[Round "9"]
+[TimeControl "5400+30"]
+[Date "2023.07.29"]
+[WhiteClock "0:12:31"]
+[BlackClock "0:12:12"]
+[Board "2"]
+
+1. d4 {[%clk 1:30:56]}  Nf6 {[%clk 1:30:53]} 2. c4 {[%clk 1:31:21]}  e6 {[%clk 1:31:19]} 3. Nf3 {[%clk 1:31:35]}  h6 {[%clk 1:31:44]} 4. e3 {[%clk 1:31:34]}  d5 {[%clk 1:31:46]} 5. b3 {[%clk 1:31:54]}  c5 {[%clk 1:30:22]} 6. Bb2 {[%clk 1:26:23]}  cxd4 {[%clk 1:23:24]} 7. Nxd4 {[%clk 1:23:37]}  Bb4+ {[%clk 1:15:19]} 8. Nd2 {[%clk 1:08:57]}  Nc6 {[%clk 0:38:22]} 9. a3 {[%clk 1:06:02]}  Bd6 {[%clk 0:38:21]} 10. cxd5 {[%clk 1:05:24]}  exd5 {[%clk 0:38:29]} 11. Be2 {[%clk 1:04:33]}  O-O {[%clk 0:38:47]} 12. O-O {[%clk 1:04:43]}  Nxd4 {[%clk 0:38:28]} 13. Bxd4 {[%clk 1:04:54]}  Bf5 {[%clk 0:38:52]} 14. Nf3 {[%clk 1:00:10]}  Be4 {[%clk 0:35:43]} 15. Qd2 {[%clk 0:48:16]}  Qe7 {[%clk 0:29:54]} 16. Qb2 {[%clk 0:48:17]}  Rfc8 {[%clk 0:25:26]} 17. Rfc1 {[%clk 0:46:44]}  Rxc1+ {[%clk 0:24:47]} 18. Qxc1 {[%clk 0:47:04]}  Ng4 {[%clk 0:20:26]} 19. Qb2 {[%clk 0:36:01]}  Nf6 {[%clk 0:11:16]} 20. b4 {[%clk 0:32:07]}  Rc8 {[%clk 0:11:34]} 21. Rc1 {[%clk 0:32:05]}  Rxc1+ {[%clk 0:11:25]} 22. Qxc1 {[%clk 0:32:32]}  a5 {[%clk 0:11:30]} 23. bxa5 {[%clk 0:29:19]}  Bxa3 {[%clk 0:11:55]} 24. Qa1 {[%clk 0:26:44]}  Bb4 {[%clk 0:11:56]} 25. h3 {[%clk 0:24:59]}  Ne8 {[%clk 0:12:19]} 26. Bc3 {[%clk 0:23:32]}  Qc5 {[%clk 0:11:15]} 27. Bxb4 {[%clk 0:21:07]}  Qxb4 {[%clk 0:11:41]} 28. Nd4 {[%clk 0:15:49]}  Nd6 {[%clk 0:11:55]} 29. a6 {[%clk 0:13:20]}  bxa6 {[%clk 0:12:12]} 30. Bxa6 {[%clk 0:12:31]} 1/2-1/2

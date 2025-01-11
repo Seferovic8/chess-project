@@ -1,0 +1,15 @@
+[Event "Hoogeveen Final Four 2022"]
+[White "Romanov, Evgeny"]
+[Black "Hovhannisyan, Robert"]
+[WhiteFideId "4148843"]
+[BlackFideId "13302507"]
+[WhiteElo "2593"]
+[BlackElo "2601"]
+[Result "1/2-1/2"]
+[Round "01"]
+[TimeControl "5400+30"]
+[Date "2022.10.21"]
+[WhiteClock "0:20:18"]
+[BlackClock "0:31:59"]
+
+1. c4 {[%clk 1:30:53]}  e5 {[%clk 1:30:42]} 2. Nf3 {[%clk 1:31:04]}  e4 {[%clk 1:29:58]} 3. Nd4 {[%clk 1:30:57]}  Nc6 {[%clk 1:27:12]} 4. Nxc6 {[%clk 1:31:14]}  dxc6 {[%clk 1:27:30]} 5. Nc3 {[%clk 1:31:38]}  f5 {[%clk 1:24:08]} 6. d3 {[%clk 1:27:44]}  Nf6 {[%clk 1:22:46]} 7. Bf4 {[%clk 1:23:48]}  Bd6 {[%clk 1:17:10]} 8. e3 {[%clk 1:16:32]}  Bxf4 {[%clk 1:12:30]} 9. exf4 {[%clk 1:16:52]}  Qe7 {[%clk 1:12:15]} 10. dxe4 {[%clk 0:56:46]}  Nxe4 {[%clk 1:11:04]} 11. Nxe4 {[%clk 0:56:39]}  fxe4 {[%clk 1:09:25]} 12. Be2 {[%clk 0:51:41]}  Bd7 {[%clk 1:03:05]} 13. Qd4 {[%clk 0:48:12]}  Rf8 {[%clk 0:59:51]} 14. g3 {[%clk 0:46:57]}  O-O-O {[%clk 0:55:54]} 15. O-O-O {[%clk 0:46:12]}  c5 {[%clk 0:54:09]} 16. Qe3 {[%clk 0:46:32]}  Bc6 {[%clk 0:51:59]} 17. Rhe1 {[%clk 0:33:51]}  Rxd1+ {[%clk 0:46:28]} 18. Rxd1 {[%clk 0:32:42]}  Re8 {[%clk 0:46:44]} 19. h4 {[%clk 0:32:12]}  b6 {[%clk 0:44:05]} 20. h5 {[%clk 0:31:51]}  a5 {[%clk 0:43:01]} 21. g4 {[%clk 0:30:56]}  Kb7 {[%clk 0:41:49]} 22. f5 {[%clk 0:27:36]}  h6 {[%clk 0:40:01]} 23. Rd2 {[%clk 0:23:11]}  Qh4 {[%clk 0:37:11]} 24. Bd1 {[%clk 0:22:56]}  a4 {[%clk 0:36:04]} 25. a3 {[%clk 0:22:45]}  Qf6 {[%clk 0:34:52]} 26. Bc2 {[%clk 0:21:59]}  Qh4 {[%clk 0:32:13]} 27. Bd1 {[%clk 0:21:02]}  Qf6 {[%clk 0:32:13]} 28. Bc2 {[%clk 0:20:18]}  Qh4 {[%clk 0:31:59]} 1/2-1/2

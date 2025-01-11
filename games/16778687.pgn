@@ -1,0 +1,16 @@
+[Event "February 14 Late 2023"]
+[White "Nakamura, Hikaru"]
+[Black "Koellner, Ruben Gideon"]
+[WhiteFideId "2016192"]
+[BlackFideId "12993093"]
+[WhiteElo "2778"]
+[BlackElo "2488"]
+[Result "1-0"]
+[Round "4"]
+[TimeControl "180+2"]
+[Date "2023.02.14"]
+[WhiteClock "0:01:04"]
+[BlackClock "0:00:04"]
+[Board "22"]
+
+1. Nf3 {[%clk 0:03:00]}  Nf6 {[%clk 0:02:54]} 2. e3 {[%clk 0:02:52]}  d6 {[%clk 0:02:50]} 3. d4 {[%clk 0:02:51]}  Nbd7 {[%clk 0:02:50]} 4. c4 {[%clk 0:02:49]}  e5 {[%clk 0:02:50]} 5. Nc3 {[%clk 0:02:48]}  Be7 {[%clk 0:02:50]} 6. Bd3 {[%clk 0:02:47]}  O-O {[%clk 0:02:49]} 7. O-O {[%clk 0:02:46]}  Re8 {[%clk 0:02:49]} 8. Bc2 {[%clk 0:02:45]}  exd4 {[%clk 0:02:48]} 9. exd4 {[%clk 0:02:45]}  Nf8 {[%clk 0:02:48]} 10. h3 {[%clk 0:02:43]}  Ng6 {[%clk 0:02:48]} 11. d5 {[%clk 0:02:42]}  Nd7 {[%clk 0:02:38]} 12. Nd4 {[%clk 0:02:38]}  a5 {[%clk 0:02:19]} 13. Be3 {[%clk 0:02:32]}  Nc5 {[%clk 0:02:18]} 14. a3 {[%clk 0:02:27]}  Bf6 {[%clk 0:02:14]} 15. b4 {[%clk 0:02:25]}  axb4 {[%clk 0:02:00]} 16. axb4 {[%clk 0:02:26]}  Rxa1 {[%clk 0:02:00]} 17. Qxa1 {[%clk 0:02:27]}  Na6 {[%clk 0:02:00]} 18. Qa3 {[%clk 0:02:25]}  Bd7 {[%clk 0:01:49]} 19. Ne4 {[%clk 0:02:16]}  Ne5 {[%clk 0:01:27]} 20. Qb3 {[%clk 0:02:08]}  Be7 {[%clk 0:01:00]} 21. f4 {[%clk 0:02:07]}  Ng6 {[%clk 0:01:00]} 22. f5 {[%clk 0:02:07]}  Ne5 {[%clk 0:01:00]} 23. f6 {[%clk 0:02:08]}  gxf6 {[%clk 0:00:30]} 24. Ng3 {[%clk 0:01:59]}  Kh8 {[%clk 0:00:27]} 25. Ndf5 {[%clk 0:01:59]}  Rg8 {[%clk 0:00:25]} 26. Kh2 {[%clk 0:01:59]}  Bf8 {[%clk 0:00:23]} 27. Bd2 {[%clk 0:01:53]}  c6 {[%clk 0:00:14]} 28. dxc6 {[%clk 0:01:52]}  Bxc6 {[%clk 0:00:15]} 29. Be4 {[%clk 0:01:42]}  Qb6 {[%clk 0:00:08]} 30. Bc3 {[%clk 0:01:07]}  Nc5 {[%clk 0:00:06]} 31. Qc2 {[%clk 0:01:06]}  Nxe4 {[%clk 0:00:07]} 32. Nxe4 {[%clk 0:01:07]}  Nxc4 {[%clk 0:00:05]} 33. Bxf6+ {[%clk 0:01:05]}  Bg7 {[%clk 0:00:03]} 34. Nxg7 {[%clk 0:01:05]}  Rxg7 {[%clk 0:00:04]} 35. Qxc4 {[%clk 0:01:04]} 1-0

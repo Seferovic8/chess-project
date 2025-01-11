@@ -1,0 +1,15 @@
+[Event "FIDE World Rapid Chess Championship 2022"]
+[White "Carlsen, Magnus"]
+[Black "Caruana, Fabiano"]
+[WhiteFideId "1503014"]
+[BlackFideId "2020009"]
+[WhiteElo "2859"]
+[BlackElo "2766"]
+[Result "1/2-1/2"]
+[Round "12"]
+[TimeControl "900+10"]
+[Date "2022.12.28"]
+[WhiteClock "0:04:31"]
+[BlackClock "0:01:59"]
+
+1. d4 {[%clk 0:14:34]}  Nf6 {[%clk 0:15:18]} 2. c4 {[%clk 0:14:43]}  e6 {[%clk 0:15:26]} 3. Nf3 {[%clk 0:14:51]}  d5 {[%clk 0:15:35]} 4. g3 {[%clk 0:14:59]}  Bb4+ {[%clk 0:15:22]} 5. Bd2 {[%clk 0:15:07]}  a5 {[%clk 0:15:26]} 6. Bg2 {[%clk 0:15:13]}  O-O {[%clk 0:15:26]} 7. Qc1 {[%clk 0:14:20]}  b6 {[%clk 0:14:42]} 8. cxd5 {[%clk 0:14:11]}  exd5 {[%clk 0:14:49]} 9. O-O {[%clk 0:14:18]}  Ba6 {[%clk 0:14:17]} 10. a3 {[%clk 0:14:05]}  Bxd2 {[%clk 0:13:37]} 11. Qxd2 {[%clk 0:14:14]}  c5 {[%clk 0:13:45]} 12. Nc3 {[%clk 0:14:15]}  Nc6 {[%clk 0:13:33]} 13. Rfd1 {[%clk 0:13:55]}  Rc8 {[%clk 0:10:51]} 14. dxc5 {[%clk 0:10:48]}  bxc5 {[%clk 0:10:57]} 15. Nxd5 {[%clk 0:10:48]}  Nxd5 {[%clk 0:11:04]} 16. Qxd5 {[%clk 0:10:56]}  Bxe2 {[%clk 0:10:56]} 17. Rd2 {[%clk 0:10:48]}  Bxf3 {[%clk 0:09:41]} 18. Qxd8 {[%clk 0:10:56]}  Rfxd8 {[%clk 0:09:50]} 19. Rxd8+ {[%clk 0:11:04]}  Rxd8 {[%clk 0:09:58]} 20. Bxf3 {[%clk 0:11:12]}  Ne5 {[%clk 0:09:13]} 21. Kg2 {[%clk 0:10:48]}  g6 {[%clk 0:08:36]} 22. Rc1 {[%clk 0:10:33]}  Rd2 {[%clk 0:07:56]} 23. Rxc5 {[%clk 0:07:41]}  Nd3 {[%clk 0:08:05]} 24. Rc8+ {[%clk 0:07:45]}  Kg7 {[%clk 0:08:14]} 25. Kg1 {[%clk 0:06:26]}  Rxb2 {[%clk 0:07:30]} 26. Rc3 {[%clk 0:05:51]}  Nxf2 {[%clk 0:06:58]} 27. h4 {[%clk 0:04:09]}  h5 {[%clk 0:06:18]} 28. Rc5 {[%clk 0:04:04]}  Nh3+ {[%clk 0:01:49]} 29. Kh1 {[%clk 0:04:13]}  Nf2+ {[%clk 0:01:58]} 30. Kg1 {[%clk 0:04:22]}  Nh3+ {[%clk 0:01:50]} 31. Kh1 {[%clk 0:04:31]}  Nf2+ {[%clk 0:01:59]} 1/2-1/2

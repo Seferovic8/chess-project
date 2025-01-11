@@ -1,0 +1,16 @@
+[Event "Titled Tuesday Blitz October 10 Late 2023"]
+[White "Anton Guijarro, David"]
+[Black "Guerra Mendez, Jose Angel"]
+[WhiteFideId "2285525"]
+[BlackFideId "3508129"]
+[WhiteElo "2875"]
+[BlackElo "2662"]
+[Result "1-0"]
+[Round "5"]
+[TimeControl "180+1"]
+[Date "2023.10.10"]
+[WhiteClock "0:01:07"]
+[BlackClock "0:00:00"]
+[Board "31"]
+
+1. Nf3 {[%clk 0:03:00]}  Nf6 {[%clk 0:02:59]} 2. b3 {[%clk 0:03:01]}  g6 {[%clk 0:02:58]} 3. Bb2 {[%clk 0:03:02]}  Bg7 {[%clk 0:02:59]} 4. g3 {[%clk 0:03:02]}  O-O {[%clk 0:02:59]} 5. Bg2 {[%clk 0:03:03]}  d6 {[%clk 0:02:58]} 6. d4 {[%clk 0:03:03]}  Nbd7 {[%clk 0:02:55]} 7. O-O {[%clk 0:02:56]}  c6 {[%clk 0:02:55]} 8. Nbd2 {[%clk 0:02:55]}  Qc7 {[%clk 0:02:56]} 9. a4 {[%clk 0:02:54]}  b6 {[%clk 0:02:49]} 10. Re1 {[%clk 0:02:32]}  Bb7 {[%clk 0:02:46]} 11. e4 {[%clk 0:02:32]}  e5 {[%clk 0:01:41]} 12. dxe5 {[%clk 0:02:32]}  Nxe5 {[%clk 0:01:40]} 13. Nxe5 {[%clk 0:02:26]}  dxe5 {[%clk 0:01:41]} 14. Nc4 {[%clk 0:02:26]}  Ne8 {[%clk 0:01:32]} 15. Ba3 {[%clk 0:02:24]}  c5 {[%clk 0:01:30]} 16. Ne3 {[%clk 0:02:14]}  Rd8 {[%clk 0:01:28]} 17. Qe2 {[%clk 0:02:13]}  Nd6 {[%clk 0:01:25]} 18. f3 {[%clk 0:02:04]}  Rfe8 {[%clk 0:01:22]} 19. Rad1 {[%clk 0:02:02]}  f5 {[%clk 0:01:08]} 20. Bb2 {[%clk 0:01:55]}  Qf7 {[%clk 0:01:00]} 21. Nd5 {[%clk 0:01:51]}  Rd7 {[%clk 0:00:50]} 22. c4 {[%clk 0:01:49]}  h5 {[%clk 0:00:41]} 23. Qd2 {[%clk 0:01:26]}  Kh7 {[%clk 0:00:39]} 24. a5 {[%clk 0:01:27]}  Bxd5 {[%clk 0:00:22]} 25. Qxd5 {[%clk 0:01:22]}  Red8 {[%clk 0:00:05]} 26. axb6 {[%clk 0:01:11]}  axb6 {[%clk 0:00:02]} 27. Qxf7 {[%clk 0:01:08]}  Nxf7 {[%clk 0:00:02]} 28. Rd5 {[%clk 0:01:06]}  Rxd5 {[%clk 0:00:00]} 29. exd5 {[%clk 0:01:07]} 1-0

@@ -1,0 +1,15 @@
+[Event "European FIDE World Cup Qualifier 2021"]
+[White "Gajewski, Grzegorz"]
+[Black "Tratar, Marko"]
+[WhiteFideId "1116207"]
+[BlackFideId "14600684"]
+[WhiteElo "2545"]
+[BlackElo "2455"]
+[Result "1-0"]
+[Round "01-04"]
+[TimeControl "600+3"]
+[Date "Tue May 25 2021"]
+[WhiteClock "0:00:01"]
+[BlackClock "0:00:04"]
+
+1. d4 {[%clk 0:00:00]}  e6 {[%clk 0:10:00]} 2. Nf3 {[%clk 0:00:00]}  c5 {[%clk 0:09:54]} 3. e3 {[%clk 0:00:00]}  Nf6 {[%clk 0:09:27]} 4. c4 {[%clk 0:09:39]}  cxd4 {[%clk 0:09:27]} 5. Nxd4 {[%clk 0:09:39]}  Nc6 {[%clk 0:09:01]} 6. Be2 {[%clk 0:09:29]}  d5 {[%clk 0:08:51]} 7. O-O {[%clk 0:09:36]}  Bc5 {[%clk 0:07:53]} 8. cxd5 {[%clk 0:08:50]}  exd5 {[%clk 0:07:53]} 9. Nxc6 {[%clk 0:07:02]}  bxc6 {[%clk 0:06:46]} 10. b3 {[%clk 0:07:02]}  O-O {[%clk 0:06:46]} 11. Ba3 {[%clk 0:07:01]}  Bxa3 {[%clk 0:06:36]} 12. Nxa3 {[%clk 0:07:02]}  a5 {[%clk 0:06:09]} 13. Nc2 {[%clk 0:07:59]}  Qd6 {[%clk 0:06:03]} 14. Nd4 {[%clk 0:07:54]}  Bd7 {[%clk 0:05:48]} 15. Rc1 {[%clk 0:07:44]}  Rfc8 {[%clk 0:04:57]} 16. Qc2 {[%clk 0:07:09]}  a4 {[%clk 0:04:21]} 17. Rfd1 {[%clk 0:06:06]}  axb3 {[%clk 0:02:59]} 18. axb3 {[%clk 0:06:06]}  c5 {[%clk 0:02:59]} 19. Nf3 {[%clk 0:06:06]}  Qe7 {[%clk 0:02:59]} 20. Qc3 {[%clk 0:06:06]}  Ra2 {[%clk 0:02:49]} 21. Qe1 {[%clk 0:04:40]}  Rb8 {[%clk 0:01:38]} 22. Nd2 {[%clk 0:04:40]}  Ng4 {[%clk 0:01:38]} 23. Ra1 {[%clk 0:04:40]}  Rba8 {[%clk 0:00:11]} 24. Rxa2 {[%clk 0:03:07]}  Rxa2 {[%clk 0:00:11]} 25. Bxg4 {[%clk 0:03:07]}  Bxg4 {[%clk 0:00:11]} 26. Ra1 {[%clk 0:03:07]}  Qa7 {[%clk 0:00:11]} 27. Rxa2 {[%clk 0:03:07]}  Qxa2 {[%clk 0:00:11]} 28. Qc1 {[%clk 0:03:07]}  h6 {[%clk 0:00:11]} 29. h3 {[%clk 0:03:07]}  Be6 {[%clk 0:00:11]} 30. Qc3 {[%clk 0:03:07]}  Qa3 {[%clk 0:00:11]} 31. Nb1 {[%clk 0:03:07]}  d4 {[%clk 0:00:11]} 32. exd4 {[%clk 0:03:07]}  cxd4 {[%clk 0:00:11]} 33. Qc8+ {[%clk 0:03:07]}  Bxc8 {[%clk 0:00:11]} 34. Nxa3 {[%clk 0:03:07]}  Kf8 {[%clk 0:00:07]} 35. Kf1 {[%clk 0:03:06]}  Ke7 {[%clk 0:00:07]} 36. Nc2 {[%clk 0:00:01]}  d3 {[%clk 0:00:04]} 37. Nb4 {[%clk 0:00:01]} 1-0

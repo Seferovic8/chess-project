@@ -1,0 +1,15 @@
+[Event "Titled Tuesday Blitz November 29 Early 2022"]
+[White "Timofeev, Artyom"]
+[Black "Szalay, Karoly"]
+[WhiteFideId "4140419"]
+[BlackFideId "2600544"]
+[WhiteElo "2586"]
+[BlackElo "2539"]
+[Result "1-0"]
+[Round "02"]
+[TimeControl "180+1"]
+[Date "2022.11.30"]
+[WhiteClock "0:01:56"]
+[BlackClock "0:00:57"]
+
+1. d4 {[%clk 0:03:00]}  d5 {[%clk 0:03:00]} 2. Nc3 {[%clk 0:03:00]}  e6 {[%clk 0:03:00]} 3. e4 {[%clk 0:02:59]}  dxe4 {[%clk 0:03:00]} 4. Nxe4 {[%clk 0:02:59]}  b6 {[%clk 0:03:01]} 5. Qf3 {[%clk 0:02:56]}  c6 {[%clk 0:03:01]} 6. Be3 {[%clk 0:02:49]}  Nf6 {[%clk 0:02:54]} 7. Bd3 {[%clk 0:02:46]}  Bb4+ {[%clk 0:02:40]} 8. c3 {[%clk 0:02:44]}  Be7 {[%clk 0:02:40]} 9. O-O-O {[%clk 0:02:42]}  a5 {[%clk 0:02:40]} 10. Nxf6+ {[%clk 0:02:38]}  Bxf6 {[%clk 0:02:39]} 11. g4 {[%clk 0:02:37]}  a4 {[%clk 0:02:38]} 12. a3 {[%clk 0:02:37]}  Ba6 {[%clk 0:02:34]} 13. Be4 {[%clk 0:02:33]}  Bb7 {[%clk 0:01:59]} 14. h4 {[%clk 0:02:32]}  h6 {[%clk 0:01:57]} 15. g5 {[%clk 0:02:17]}  hxg5 {[%clk 0:01:55]} 16. hxg5 {[%clk 0:02:17]}  Rxh1 {[%clk 0:01:54]} 17. Qxh1 {[%clk 0:02:17]}  Bxg5 {[%clk 0:01:55]} 18. Qh8+ {[%clk 0:02:16]}  Kd7 {[%clk 0:01:56]} 19. Qxg7 {[%clk 0:02:16]}  Bxe3+ {[%clk 0:01:55]} 20. fxe3 {[%clk 0:02:16]}  Qe7 {[%clk 0:01:55]} 21. Nf3 {[%clk 0:02:15]}  f6 {[%clk 0:01:54]} 22. Rg1 {[%clk 0:02:07]}  Ba6 {[%clk 0:01:40]} 23. Qh6 {[%clk 0:02:03]}  Qe8 {[%clk 0:00:59]} 24. Rg7+ {[%clk 0:02:01]}  Kc8 {[%clk 0:00:56]} 25. Qh7 {[%clk 0:01:58]}  Nd7 {[%clk 0:00:57]} 26. Rg8 {[%clk 0:01:57]}  Nf8 {[%clk 0:00:57]} 27. Qg7 {[%clk 0:01:56]} 1-0

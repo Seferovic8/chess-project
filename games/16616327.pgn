@@ -1,0 +1,16 @@
+[Event "Titled Tuesday Blitz August 22 Early 2023"]
+[White "Nakamura, Hikaru"]
+[Black "Nihal Sarin"]
+[WhiteFideId "2016192"]
+[BlackFideId "25092340"]
+[WhiteElo "3227"]
+[BlackElo "3149"]
+[Result "0-1"]
+[Round "10"]
+[TimeControl "180+1"]
+[Date "2023.08.22"]
+[WhiteClock "0:00:33"]
+[BlackClock "0:01:26"]
+[Board "1"]
+
+1. e4 {[%clk 0:02:50]}  e5 {[%clk 0:02:57]} 2. Nf3 {[%clk 0:02:46]}  Nf6 {[%clk 0:02:56]} 3. Nxe5 {[%clk 0:02:46]}  d6 {[%clk 0:02:56]} 4. Nd3 {[%clk 0:02:46]}  Nxe4 {[%clk 0:02:57]} 5. Qe2 {[%clk 0:02:47]}  Qe7 {[%clk 0:02:56]} 6. Nf4 {[%clk 0:02:48]}  c6 {[%clk 0:02:51]} 7. d4 {[%clk 0:02:41]}  d5 {[%clk 0:02:51]} 8. f3 {[%clk 0:02:42]}  Nd6 {[%clk 0:02:51]} 9. c3 {[%clk 0:02:37]}  h5 {[%clk 0:02:44]} 10. Na3 {[%clk 0:02:31]}  Bf5 {[%clk 0:02:44]} 11. Be3 {[%clk 0:02:31]}  Nd7 {[%clk 0:02:42]} 12. O-O-O {[%clk 0:02:31]}  O-O-O {[%clk 0:02:42]} 13. Re1 {[%clk 0:02:31]}  Re8 {[%clk 0:02:41]} 14. Qd2 {[%clk 0:02:30]}  Nb6 {[%clk 0:02:31]} 15. Bf2 {[%clk 0:02:20]}  Qd7 {[%clk 0:02:31]} 16. Rxe8+ {[%clk 0:02:19]}  Qxe8 {[%clk 0:02:32]} 17. Nc2 {[%clk 0:02:06]}  Ndc4 {[%clk 0:02:26]} 18. Qd1 {[%clk 0:01:57]}  Bd6 {[%clk 0:02:26]} 19. Nd3 {[%clk 0:01:57]}  Na4 {[%clk 0:02:15]} 20. Qe2 {[%clk 0:01:08]}  Naxb2 {[%clk 0:01:58]} 21. Nce1 {[%clk 0:00:39]}  Ba3 {[%clk 0:01:46]} 22. Kc2 {[%clk 0:00:38]}  Qd8 {[%clk 0:01:26]} 23. Kb1 {[%clk 0:00:33]} 0-1
